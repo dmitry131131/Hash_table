@@ -1,0 +1,6 @@
+[submodule "lib/Color_console_output"]
+	path = lib/Color_console_output
+	url = git@github.com:dmitry131131/Color_console_output.git
+[submodule "lib/Simple_list"]
+	path = lib/Simple_list
+	url = git@github.com:dmitry131131/Simple_list.git
