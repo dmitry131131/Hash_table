@@ -17,10 +17,10 @@ BuildPrefix = build/
 BuildFolder = build
 Include = -Iinclude -Ilib/Color_console_output/include -Ilib/Simple_list/include -Ilib/Data_buffer/include
 
-Sources = hash_table.cpp hash_table_errors.cpp hash_functions.cpp
+Sources = hash_table.cpp hash_table_errors.cpp hash_functions.cpp hash_test.cpp
 Main = main.cpp
 
-Libs = -Llib/Color_console_output/build/ -lColor_output -Llib/Simple_list/build/ -lSimple_list
+Libs = -Llib/Color_console_output/build/ -lColor_output -Llib/Simple_list/build/ -lSimple_list 
 
 Source = $(addprefix $(SourcePrefix), $(Sources))
 MainObject = $(patsubst %.cpp, $(BuildPrefix)%.o, $(Main))

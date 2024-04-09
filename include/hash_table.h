@@ -4,8 +4,8 @@
 const size_t DEFAULT_LIST_SIZE = 10;
 
 #include "List.h"
+#include "DataBuffer.h"
 #include "hash_table_errors.h"
-#include "hash_functions.h"
 
 struct HashTable {
     ListData* table;
@@ -17,5 +17,8 @@ HashTableErrorCode hash_table_dtor(HashTable* hash_table);
 
 HashTableErrorCode add_to_hash_table(HashTable* hash_table, char* str, size_t (*hash_function)(const char*, size_t));
 char* find_in_hash_table(HashTable* hash_table, char* str, size_t (*hash_function)(const char*, size_t));
+
+#include "hash_functions.h"
+#include "hash_test.h"
 
 #endif

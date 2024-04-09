@@ -1,0 +1,844 @@
+Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[3] Intel is one of the world's largest semiconductor chip manufacturers by revenue[4][5] and ranked in the Fortune 500 list of the largest United States corporations by revenue for nearly a decade, from 2007 to 2016 fiscal years, until it was removed from the ranking in 2018.[6] In 2020, it was reinstated and ranked 45th, being the 7th-largest technology company in the ranking.
+
+Intel supplies microprocessors for most manufacturers of computer systems, and is one of the developers of the x86 series of instruction sets found in most personal computers (PCs). It also manufactures chipsets, network interface controllers, flash memory, graphics processing units (GPUs), field-programmable gate arrays (FPGAs), and other devices related to communications and computing. Intel has a strong presence in the high-performance general-purpose and gaming PC market with its Intel Core line of CPUs, whose high-end models are among the fastest consumer CPUs, as well as its Intel Arc series of GPUs, and sponsors the Intel Extreme Masters, a series of international esports tournaments. The Open Source Technology Center at Intel hosts PowerTOP and LatencyTOP, and supports other open source projects such as Wayland, Mesa, Threading Building Blocks (TBB), and Xen.[7]
+
+Intel (Integrated electronics) was founded on July 18, 1968, by semiconductor pioneers Gordon Moore (of Moore's law) and Robert Noyce, along with investor Arthur Rock, and is associated with the executive leadership and vision of Andrew Grove.[8] The company was a key component of the rise of Silicon Valley as a high-tech center, as well as being an early developer of SRAM and DRAM memory chips, which represented the majority of its business until 1981. Although Intel created the world's first commercial microprocessor chip in 1971, it was not until the success of the PC in the early 1990s that this became its primary business.
+
+During the 1990s, the partnership between Microsoft Windows and Intel, known as "Wintel", became instrumental in shaping the PC landscape[9] and solidified Intel's position on the market. As a result, Intel invested heavily in new microprocessor designs in the mid to late 1990s, fostering the rapid growth of the computer industry. During this period, it became the dominant supplier of PC microprocessors and was known for aggressive and anti-competitive tactics in defense of its market position, particularly against AMD, as well as a struggle with Microsoft for control over the direction of the PC industry.[10][11]
+
+Since the 2000s and especially the late 2010s, Intel has faced increasing competition from AMD, resulting in a significant decline of its dominance and market share in the PC market.[12] Nevertheless, with a 68.4% market share as of 2023, Intel still leads the x86 market by a wide margin.[13]
+
+In 2023, Dell accounted for about 19% of Intel's total revenues, Lenovo accounted for 11% of total revenues, and HP Inc. accounted for 10% of total revenues.[1] As of August 2021, the US Department of Defense is another large customer for Intel.
+
+According to IDC, while Intel enjoyed the biggest market share in both the overall worldwide PC microprocessor market (73.3%) and the mobile PC microprocessor (80.4%) in the second quarter of 2011, the numbers decreased by 1.5% and 1.9% compared to the first quarter of 2011.[20][21]
+
+Intel's market share decreased significantly in the enthusiast market as of 2019,[22] and they have faced delays for their 10 nm products. According to former Intel CEO Bob Swan, the delay was caused by the company's overly aggressive strategy for moving to its next node.
+
+In the 1980s, Intel was among the world's top ten sellers of semiconductors (10th in 1987[24]). Along with Microsoft Windows, it was part of the "Wintel" personal computer domination in the 1990s and early 2000s. In 1992, Intel became the biggest chip maker by revenue and held the position until 2018 when Samsung Electronics surpassed it, but Intel returned to its former position the year after.[25][26] Other major semiconductor companies include TSMC, GlobalFoundries, Texas Instruments, Toshiba, STMicroelectronics, United Microelectronics Corporation (UMC), Micron, SK Hynix, Kioxia, and SMIC. 
+
+Intel's competitors in PC chipsets included AMD, VIA Technologies, Silicon Integrated Systems, and Nvidia. Intel's competitors in networking include NXP Semiconductors, Infineon,[needs update] Broadcom Limited, Marvell Technology Group and Applied Micro Circuits Corporation, and competitors in flash memory included Spansion, Samsung Electronics, Qimonda, Kioxia, STMicroelectronics, Micron, and SK Hynix.
+
+The only major competitor in the x86 processor market is AMD, with which Intel has had full cross-licensing agreements since 1976: each partner can use the other's patented technological innovations without charge after a certain time.[27] However, the cross-licensing agreement is canceled in the event of an AMD bankruptcy or takeover.[28]
+
+Some smaller competitors, such as VIA Technologies, produce low-power x86 processors for small factor computers and portable equipment. However, the advent of such mobile computing devices, in particular, smartphones, has in recent years led to a decline in PC sales.[29] Since over 95% of the world's smartphones currently use processors cores designed by Arm, using the Arm instruction set, Arm has become a major competitor for Intel's processor market. Arm is also planning to make attempts at setting foot into the PC and server market, with Ampere and IBM each individually designing CPUs for servers and supercomputers.[30] The only other major competitor in processor instruction sets is RISC-V, which is an open source CPU instruction set. The major Chinese phone and telecommunications manufacturer Huawei has released chips based on the RISC-V instruction set due to US sanctions.[31]
+
+Intel has been involved in several disputes regarding the violation of antitrust laws, which are noted below. 
+
+Origins
+Andy Grove, Robert Noyce and Gordon Moore in 1978
+
+Intel was incorporated in Mountain View, California, on July 18, 1968, by Gordon E. Moore (known for "Moore's law"), a chemist, Robert Noyce, a physicist and co-inventor of the integrated circuit and Arthur Rock, an investor and venture capitalist.[40][41][42] Moore and Noyce had left Fairchild Semiconductor and were part of the "traitorous eight". There were originally 500,000 shares outstanding of which Dr. Noyce bought 245,000 shares, Dr. Moore 245,000 shares, and Mr. Rock 10,000 shares; all at $1 per share. Rock offered $2,500,000 of convertible debentures to a limited group of private investors (equivalent to $21 million in 2022), convertible at $5 per share.[43][44] Just 2 years later, Intel became a public company via an initial public offering (IPO), raising $6.8 million ($23.50 per share).[45] Intel's third employee was Andy Grove,[note 1] a chemical engineer, who later ran the company through much of the 1980s and the high-growth 1990s.
+
+In deciding on a name, Moore and Noyce quickly rejected "Moore Noyce",[46] near homophone for "more noise" – an ill-suited name for an electronics company, since noise in electronics is usually undesirable and typically associated with bad interference. Instead, they founded the company as NM Electronics (or MN Electronics) on July 18, 1968, but by the end of the month had changed the name to Intel, which stood for Integrated Electronics.[note 2] Since "Intel" was already trademarked by the hotel chain Intelco, they had to buy the rights for the name.[45][52]
+Early history
+
+At its founding, Intel was distinguished by its ability to make logic circuits using semiconductor devices. The founders' goal was the semiconductor memory market, widely predicted to replace magnetic-core memory. Its first product, a quick entry into the small, high-speed memory market in 1969, was the 3101 Schottky TTL bipolar 64-bit static random-access memory (SRAM), which was nearly twice as fast as earlier Schottky diode implementations by Fairchild and the Electrotechnical Laboratory in Tsukuba, Japan.[53][54] In the same year, Intel also produced the 3301 Schottky bipolar 1024-bit read-only memory (ROM)[55] and the first commercial metal–oxide–semiconductor field-effect transistor (MOSFET) silicon gate SRAM chip, the 256-bit 1101.[45][56][57]
+
+While the 1101 was a significant advance, its complex static cell structure made it too slow and costly for mainframe memories. The three-transistor cell implemented in the first commercially available dynamic random-access memory (DRAM), the 1103 released in 1970, solved these issues. The 1103 was the bestselling semiconductor memory chip in the world by 1972, as it replaced core memory in many applications.[58][59] Intel's business grew during the 1970s as it expanded and improved its manufacturing processes and produced a wider range of products, still dominated by various memory devices.
+Federico Faggin, designer of the Intel 4004
+
+Intel created the first commercially available microprocessor, the Intel 4004, in 1971.[45] The microprocessor represented a notable advance in the technology of integrated circuitry, as it miniaturized the central processing unit of a computer, which then made it possible for small machines to perform calculations that in the past only very large machines could do. Considerable technological innovation was needed before the microprocessor could actually become the basis of what was first known as a "mini computer" and then known as a "personal computer".[60] Intel also created one of the first microcomputers in 1973.[56][61]
+
+Intel opened its first international manufacturing facility in 1972, in Malaysia, which would host multiple Intel operations, before opening assembly facilities and semiconductor plants in Singapore and Jerusalem in the early 1980s, and manufacturing and development centers in China, India, and Costa Rica in the 1990s.[62] By the early 1980s, its business was dominated by DRAM chips. However, increased competition from Japanese semiconductor manufacturers had, by 1983, dramatically reduced the profitability of this market. The growing success of the IBM personal computer, based on an Intel microprocessor, was among factors that convinced Gordon Moore (CEO since 1975) to shift the company's focus to microprocessors and to change fundamental aspects of that business model. Moore's decision to sole-source Intel's 386 chip played into the company's continuing success.
+
+By the end of the 1980s, buoyed by its fortuitous position as microprocessor supplier to IBM and IBM's competitors within the rapidly growing personal computer market, Intel embarked on a 10-year period of unprecedented growth as the primary (and most profitable) hardware supplier to the PC industry, part of the winning 'Wintel' combination. Moore handed over his position as CEO to Andy Grove in 1987. By launching its Intel Inside marketing campaign in 1991, Intel was able to associate brand loyalty with consumer selection, so that by the end of the 1990s, its line of Pentium processors had become a household name.
+Challenges to dominance (2000s)
+
+After 2000, growth in demand for high-end microprocessors slowed. Competitors, most notably AMD (Intel's largest competitor in its primary x86 architecture market), garnered significant market share, initially in low-end and mid-range processors but ultimately across the product range, and Intel's dominant position in its core market was greatly reduced,[63] mostly due to controversial NetBurst microarchitecture. In the early 2000s then-CEO, Craig Barrett attempted to diversify the company's business beyond semiconductors, but few of these activities were ultimately successful.
+Litigation
+
+Intel had also for a number of years been embroiled in litigation. U.S. law did not initially recognize intellectual property rights related to microprocessor topology (circuit layouts), until the Semiconductor Chip Protection Act of 1984, a law sought by Intel and the Semiconductor Industry Association (SIA).[64] During the late 1980s and 1990s (after this law was passed), Intel also sued companies that tried to develop competitor chips to the 80386 CPU.[65] The lawsuits were noted to significantly burden the competition with legal bills, even if Intel lost the suits.[65] Antitrust allegations had been simmering since the early 1990s and had been the cause of one lawsuit against Intel in 1991. In 2004 and 2005, AMD brought further claims against Intel related to unfair competition.
+Reorganization and success with Intel Core (2005–2015)
+
+In 2005, CEO Paul Otellini reorganized the company to refocus its core processor and chipset business on platforms (enterprise, digital home, digital health, and mobility).
+
+On June 6, 2005, Steve Jobs, then CEO of Apple, announced that Apple would be using Intel's x86 processors for its Macintosh computers, switching from the PowerPC architecture developed by the AIM alliance.[66] This was seen as win for Intel;[67] an analyst called the move "risky" and "foolish", as Intel's current offerings at the time were considered to be behind those of AMD and IBM.[68]
+
+In 2006, Intel unveiled its Core microarchitecture to widespread critical acclaim; the product range was perceived as an exceptional leap in processor performance that at a stroke regained much of its leadership of the field.[69][70] In 2008, Intel had another "tick" when it introduced the Penryn microarchitecture, fabricated using the 45 nm process node. Later that year, Intel released a processor with the Nehalem architecture to positive reception.[71]
+
+On June 27, 2006, the sale of Intel's XScale assets was announced. Intel agreed to sell the XScale processor business to Marvell Technology Group for an estimated $600 million and the assumption of unspecified liabilities. The move was intended to permit Intel to focus its resources on its core x86 and server businesses, and the acquisition completed on November 9, 2006.[72]
+
+In 2008, Intel spun off key assets of a solar startup business effort to form an independent company, SpectraWatt Inc. In 2011, SpectraWatt filed for bankruptcy.[73]
+
+In February 2011, Intel began to build a new microprocessor manufacturing facility in Chandler, Arizona, completed in 2013 at a cost of $5 billion.[74] The building is now the 10 nm-certified Fab 42 and is connected to the other Fabs (12, 22, 32) on Ocotillo Campus via an enclosed bridge known as the Link.[75][76][77][78] The company produces three-quarters of its products in the United States, although three-quarters of its revenue come from overseas.[79]
+
+The Alliance for Affordable Internet (A4AI) was launched in October 2013 and Intel is part of the coalition of public and private organizations that also includes Facebook, Google, and Microsoft. Led by Sir Tim Berners-Lee, the A4AI seeks to make Internet access more affordable so that access is broadened in the developing world, where only 31% of people are online. Google will help to decrease Internet access prices so that they fall below the UN Broadband Commission's worldwide target of 5% of monthly income.[80]
+Attempts at entering the smartphone market
+
+In April 2011, Intel began a pilot project with ZTE Corporation to produce smartphones using the Intel Atom processor for China's domestic market. In December 2011, Intel announced that it reorganized several of its business units into a new mobile and communications group[81] that would be responsible for the company's smartphone, tablet, and wireless efforts. Intel planned to introduce Medfield – a processor for tablets and smartphones – to the market in 2012, as an effort to compete with Arm.[82] As a 32-nanometer processor, Medfield is designed to be energy-efficient, which is one of the core features in Arm's chips.[83]
+
+At the Intel Developers Forum (IDF) 2011 in San Francisco, Intel's partnership with Google was announced. In January 2012, Google announced Android 2.3, supporting Intel's Atom microprocessor.[84][85][86] In 2013, Intel's Kirk Skaugen said that Intel's exclusive focus on Microsoft platforms was a thing of the past and that they would now support all "tier-one operating systems" such as Linux, Android, iOS, and Chrome.[87]
+
+In 2014, Intel cut thousands of employees in response to "evolving market trends",[88] and offered to subsidize manufacturers for the extra costs involved in using Intel chips in their tablets. In April 2016, Intel cancelled the SoFIA platform and the Broxton Atom SoC for smartphones,[89][90][91][92] effectively leaving the smartphone market.[93][94]
+Intel custom foundry
+
+Finding itself with excess fab capacity after the failure of the Ultrabook to gain market traction and with PC sales declining, in 2013 Intel reached a foundry agreement to produce chips for Altera using a 14 nm process. General Manager of Intel's custom foundry division Sunit Rikhi indicated that Intel would pursue further such deals in the future.[95] This was after poor sales of Windows 8 hardware caused a major retrenchment for most of the major semiconductor manufacturers, except for Qualcomm, which continued to see healthy purchases from its largest customer, Apple.[96]
+
+As of July 2013, five companies were using Intel's fabs via the Intel Custom Foundry division: Achronix, Tabula, Netronome, Microsemi, and Panasonic – most are field-programmable gate array (FPGA) makers, but Netronome designs network processors. Only Achronix began shipping chips made by Intel using the 22 nm Tri-Gate process.[97][98] Several other customers also exist but were not announced at the time.[99]
+
+The foundry business was closed in 2018 due to Intel's issues with its manufacturing.[100][101]
+Security and manufacturing challenges (2016–2021)
+
+Intel continued its tick-tock model of a microarchitecture change followed by a die shrink until the 6th-generation Core family based on the Skylake microarchitecture. This model was deprecated in 2016, with the release of the 7th-generation Core family (codenamed Kaby Lake), ushering in the process–architecture–optimization model. As Intel struggled to shrink their process node from 14 nm to 10 nm, processor development slowed down and the company continued to use the Skylake microarchitecture until 2020, albeit with optimizations.[23]
+10 nm process node issues
+
+While Intel originally planned to introduce 10 nm products in 2016, it later became apparent that there were manufacturing issues with the node.[102] The first microprocessor under that node, Cannon Lake (marketed as 8th-generation Core), was released in small quantities in 2018.[103][104] The company first delayed the mass production of their 10 nm products to 2017.[105][106] They later delayed mass production to 2018,[107] and then to 2019. Despite rumors of the process being cancelled,[108] Intel finally introduced mass-produced 10 nm 10th-generation Intel Core mobile processors (codenamed "Ice Lake") in September 2019.[109]
+
+Intel later acknowledged that their strategy to shrink to 10 nm was too aggressive.[23][110] While other foundries used up to four steps in 10 nm or 7 nm processes, the company's 10 nm process required up to five or six multi-pattern steps.[111] In addition, Intel's 10 nm process is denser than its counterpart processes from other foundries.[112][113] Since Intel's microarchitecture and process node development were coupled, processor development stagnated.[23]
+Security flaws
+
+In early January 2018, it was reported that all Intel processors made since 1995,[114] excluding Intel Itanium and pre-2013 Intel Atom processors, have been subject to two security flaws dubbed Meltdown and Spectre.[115][116] It is believed that "hundreds of millions" of systems could be affected by these flaws.[117][118] More security flaws were disclosed on May 3, 2018,[119] on August 14, 2018, on January 18, 2019, and on March 5, 2020.[120][121][122][123]
+
+On March 15, 2018, Intel reported that it will redesign its CPUs to protect against the Spectre security vulnerability, the redesigned processors were sold later in 2018.[124][125] Existing chips vulnerable to Meltdown and Spectre can be fixed with a software patch at a cost to performance.[126][127][128][129]
+Renewed competition and other developments (2018–present)
+
+Due to Intel's issues with its 10 nm process node and the company's slow processor development,[23] the company now found itself in a market with intense competition.[130] The company's main competitor, AMD, introduced the Zen microarchitecture and a new chiplet-based design to critical acclaim. Since its introduction, AMD, once unable to compete with Intel in the high-end CPU market, has undergone a resurgence,[131] and Intel's dominance and market share have considerably decreased.[132] In addition, Apple began to transition away from the x86 architecture and Intel processors to their own Apple silicon for their Macintosh computers in 2020. The transition is expected to affect Intel minimally; however, it might prompt other PC manufacturers to reevaluate their reliance on Intel and the x86 architecture.[133][134]
+'IDM 2.0' strategy
+
+On March 23, 2021, CEO Pat Gelsinger laid out new plans for the company.[135] These include a new strategy, called IDM 2.0, that includes investments in manufacturing facilities, use of both internal and external foundries, and a new foundry business called Intel Foundry Services (IFS), a standalone business unit.[136][137] Unlike Intel Custom Foundry, IFS will offer a combination of packaging and process technology, and Intel's IP portfolio including x86 cores. Other plans for the company include a partnership with IBM and a new event for developers and engineers, called "Intel ON".[101] Gelsinger also confirmed that Intel's 7 nm process is on track, and that the first products using their 7 nm process (also known as Intel 4) are Ponte Vecchio and Meteor Lake.[101]
+
+In January 2022, Intel reportedly selected New Albany, Ohio, near Columbus, Ohio, as the site for a major new manufacturing facility.[138] The facility will cost at least $20 billion.[139] The company expects the facility to begin producing chips by 2025.[140] The same year Intel also choose Magdeburg, Germany, as a site for two new chip mega factories for €17 billion (topping Tesla's investment in Brandenburg). The start of the construction was initially planned for 2023, but this has been postponed to late 2024, while production start is planned for 2027.[141] Including subcontractors this would create 10,000 new jobs.[142]
+
+In August 2022, Intel signed a $30 billion partnership with Brookfield Asset Management to fund its recent factory expansions. As part of the deal, Intel would have a controlling stake by funding 51% of the cost of building new chip-making facilities in Chandler, with Brookfield owning the remaining 49% stake, allowing the companies to split the revenue from those facilities.[143][144]
+
+On January 31, 2023, as part of $3 billion in cost reductions, Intel announced pay cuts affecting employees above midlevel, ranging from 5% upwards. It also suspended bonuses and merit pay increases, while reducing retirement plan matching. These cost reductions followed layoffs announced in the fall of 2022.[145]
+
+In October 2023, Intel confirmed it would be the first commercial user of high-NA EUV lithography tool, as part of its plan to regain process leadership from TSMC.[146] 
+
+SRAMs, DRAMs, and the microprocessor
+
+Intel's first products were shift register memory and random-access memory integrated circuits, and Intel grew to be a leader in the fiercely competitive DRAM, SRAM, and ROM markets throughout the 1970s. Concurrently, Intel engineers Marcian Hoff, Federico Faggin, Stanley Mazor, and Masatoshi Shima invented Intel's first microprocessor. Originally developed for the Japanese company Busicom to replace a number of ASICs in a calculator already produced by Busicom, the Intel 4004 was introduced to the mass market on November 15, 1971, though the microprocessor did not become the core of Intel's business until the mid-1980s. (Note: Intel is usually given credit with Texas Instruments for the almost-simultaneous invention of the microprocessor.)
+
+In 1983, at the dawn of the personal computer era, Intel's profits came under increased pressure from Japanese memory-chip manufacturers, and then-president Andy Grove focused the company on microprocessors. Grove described this transition in the book Only the Paranoid Survive. A key element of his plan was the notion, then considered radical, of becoming the single source for successors to the popular 8086 microprocessor.
+
+Until then, the manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but Grove began producing processors in three geographically distinct factories,[which?] and ceased licensing the chip designs to competitors such as AMD.[148] When the PC industry boomed in the late 1980s and 1990s, Intel was one of the primary beneficiaries.
+Early x86 processors and the IBM PC
+The die from an Intel 8742, an 8-bit microcontroller that includes a CPU running at 12 MHz, 128 bytes of RAM, 2048 bytes of EPROM, and I/O in the same chip
+
+Despite the ultimate importance of the microprocessor, the 4004 and its successors the 8008 and the 8080 were never major revenue contributors at Intel. As the next processor, the 8086 (and its variant the 8088) was completed in 1978, Intel embarked on a major marketing and sales campaign for that chip nicknamed "Operation Crush", and intended to win as many customers for the processor as possible. One design win was the newly created IBM PC division, though the importance of this was not fully realized at the time.
+
+IBM introduced its personal computer in 1981, and it was rapidly successful. In 1982, Intel created the 80286 microprocessor, which, two years later, was used in the IBM PC/AT. Compaq, the first IBM PC "clone" manufacturer, produced a desktop system based on the faster 80286 processor in 1985 and in 1986 quickly followed with the first 80386-based system, beating IBM and establishing a competitive market for PC-compatible systems and setting up Intel as a key component supplier.
+
+In 1975, the company had started a project to develop a highly advanced 32-bit microprocessor, finally released in 1981 as the Intel iAPX 432. The project was too ambitious and the processor was never able to meet its performance objectives, and it failed in the marketplace. Intel extended the x86 architecture to 32 bits instead.[149][150]
+386 microprocessor
+
+During this period Andrew Grove dramatically redirected the company, closing much of its DRAM business and directing resources to the microprocessor business. Of perhaps greater importance was his decision to "single-source" the 386 microprocessor. Prior to this, microprocessor manufacturing was in its infancy, and manufacturing problems frequently reduced or stopped production, interrupting supplies to customers. To mitigate this risk, these customers typically insisted that multiple manufacturers produce chips they could use to ensure a consistent supply. The 8080 and 8086-series microprocessors were produced by several companies, notably AMD, with which Intel had a technology-sharing contract.
+
+Grove made the decision not to license the 386 design to other manufacturers, instead, producing it in three geographically distinct factories: Santa Clara, California; Hillsboro, Oregon; and Chandler, a suburb of Phoenix, Arizona. He convinced customers that this would ensure consistent delivery. In doing this, Intel breached its contract with AMD, which sued and was paid millions of dollars in damages but could not manufacture new Intel CPU designs any longer. (Instead, AMD started to develop and manufacture its own competing x86 designs.)
+
+As the success of Compaq's Deskpro 386 established the 386 as the dominant CPU choice, Intel achieved a position of near-exclusive dominance as its supplier. Profits from this funded rapid development of both higher-performance chip designs and higher-performance manufacturing capabilities, propelling Intel to a position of unquestioned leadership by the early 1990s.
+486, Pentium, and Itanium
+
+Intel introduced the 486 microprocessor in 1989, and in 1990 established a second design team, designing the processors code-named "P5" and "P6" in parallel and committing to a major new processor every two years, versus the four or more years such designs had previously taken. Engineers Vinod Dham and Rajeev Chandrasekhar (Member of Parliament, India) were key figures on the core team that developed the 486 chip and later, Intel's signature Pentium chip. The P5 project was earlier known as "Operation Bicycle", referring to the cycles of the processor through two parallel execution pipelines. The P5 was introduced in 1993 as the Intel Pentium, substituting a registered trademark name for the former part number. (Numbers, such as 486, cannot be legally registered as trademarks in the United States.) The P6 followed in 1995 as the Pentium Pro and improved into the Pentium II in 1997. New architectures were developed alternately in Santa Clara, California and Hillsboro, Oregon.
+
+The Santa Clara design team embarked in 1993 on a successor to the x86 architecture, codenamed "P7". The first attempt was dropped a year later but quickly revived in a cooperative program with Hewlett-Packard engineers, though Intel soon took over primary design responsibility. The resulting implementation of the IA-64 64-bit architecture was the Itanium, finally introduced in June 2001. The Itanium's performance running legacy x86 code did not meet expectations, and it failed to compete effectively with x86-64, which was AMD's 64-bit extension of the 32-bit x86 architecture (Intel uses the name Intel 64, previously EM64T). In 2017, Intel announced that the Itanium 9700 series (Kittson) would be the last Itanium chips produced.[151][152]
+
+The Hillsboro team designed the Willamette processors (initially code-named P68), which were marketed as the Pentium 4.
+
+During this period, Intel undertook two major supporting advertising campaigns. The first campaign, the 1991 "Intel Inside" marketing and branding campaign, is widely known and has become synonymous with Intel itself. The idea of "ingredient branding" was new at the time, with only NutraSweet and a few others making attempts to do so.[153] One of the key architects of the marketing team was the head of the microprocessor division, David House.[154] He coined the slogan "Intel Inside".[155] This campaign established Intel, which had been a component supplier little-known outside the PC industry, as a household name.
+
+The second campaign, Intel's Systems Group, which began in the early 1990s, showcased manufacturing of PC motherboards, the main board component of a personal computer, and the one into which the processor (CPU) and memory (RAM) chips are plugged.[156] The Systems Group campaign was lesser known than the Intel Inside campaign.
+
+Shortly after, Intel began manufacturing fully configured "white box" systems for the dozens of PC clone companies that rapidly sprang up.[157] At its peak in the mid-1990s, Intel manufactured over 15% of all PCs, making it the third-largest supplier at the time.[citation needed]
+
+During the 1990s, Intel Architecture Labs (IAL) was responsible for many of the hardware innovations for the PC, including the PCI Bus, the PCI Express (PCIe) bus, and Universal Serial Bus (USB). IAL's software efforts met with a more mixed fate; its video and graphics software was important in the development of software digital video,[citation needed] but later its efforts were largely overshadowed by competition from Microsoft. The competition between Intel and Microsoft was revealed in testimony by then IAL Vice-president Steven McGeady at the Microsoft antitrust trial (United States v. Microsoft Corp.).
+Pentium flaw
+Main article: Pentium FDIV bug
+
+In June 1994, Intel engineers discovered a flaw in the floating-point math subsection of the P5 Pentium microprocessor. Under certain data-dependent conditions, the low-order bits of the result of a floating-point division would be incorrect. The error could compound in subsequent calculations. Intel corrected the error in a future chip revision, and under public pressure it issued a total recall and replaced the defective Pentium CPUs (which were limited to some 60, 66, 75, 90, and 100 MHz models[158]) on customer request.
+
+The bug was discovered independently in October 1994 by Thomas Nicely, Professor of Mathematics at Lynchburg College. He contacted Intel but received no response. On October 30, he posted a message about his finding on the Internet.[159] Word of the bug spread quickly and reached the industry press. The bug was easy to replicate; a user could enter specific numbers into the calculator on the operating system. Consequently, many users did not accept Intel's statements that the error was minor and "not even an erratum". During Thanksgiving, in 1994, The New York Times ran a piece by journalist John Markoff spotlighting the error. Intel changed its position and offered to replace every chip, quickly putting in place a large end-user support organization. This resulted in a $475 million charge against Intel's 1994 revenue.[160] Dr. Nicely later learned that Intel had discovered the FDIV bug in its own testing a few months before him (but had decided not to inform customers).[161]
+
+The "Pentium flaw" incident, Intel's response to it, and the surrounding media coverage propelled Intel from being a technology supplier generally unknown to most computer users to a household name. Dovetailing with an uptick in the "Intel Inside" campaign, the episode is considered to have been a positive event for Intel, changing some of its business practices to be more end-user focused and generating substantial public awareness, while avoiding a lasting negative impression.[162]
+Intel Core
+Main article: Intel Core
+
+The Intel Core line originated from the original Core brand, with the release of the 32-bit Yonah CPU, Intel's first dual-core mobile (low-power) processor. Derived from the Pentium M, the processor family used an enhanced version of the P6 microarchitecture. Its successor, the Core 2 family, was released on July 27, 2006. This was based on the Intel Core microarchitecture, and was a 64-bit design.[163] Instead of focusing on higher clock rates, the Core microarchitecture emphasized power efficiency and a return to lower clock speeds.[164] It also provided more efficient decoding stages, execution units, caches, and buses, reducing the power consumption of Core 2-branded CPUs while increasing their processing capacity.
+
+In November 2008, Intel released the 1st-generation Core processors based on the Nehalem microarchitecture. Intel also introduced a new naming scheme, with the three variants now named Core i3, i5, and i7 (as well as i9 from 7th-generation onwards). Unlike the previous naming scheme, these names no longer correspond to specific technical features. It was succeeded by the Westmere microarchitecture in 2010, with a die shrink to 32 nm and included Intel HD Graphics.
+
+In 2011, Intel released the Sandy Bridge-based 2nd-generation Core processor family. This generation featured an 11% performance increase over Nehalem.[165] It was succeeded by Ivy Bridge-based 3rd-generation Core, introduced at the 2012 Intel Developer Forum.[166] Ivy Bridge featured a die shrink to 22 nm, and supported both DDR3 memory and DDR3L chips.
+
+Intel continued its tick-tock model of a microarchitecture change followed by a die shrink until the 6th-generation Core family based on the Skylake microarchitecture. This model was deprecated in 2016, with the release of the 7th-generation Core family based on Kaby Lake, ushering in the process–architecture–optimization model.[167] From 2016 until 2021, Intel later released more optimizations on the Skylake microarchitecture with Kaby Lake R, Amber Lake, Whiskey Lake, Coffee Lake, Coffee Lake R, and Comet Lake.[168][169][170][171] Intel struggled to shrink their process node from 14 nm to 10 nm, with the first microarchitecture under that node, Cannon Lake (marketed as 8th-generation Core), only being released in small quantities in 2018.[103][104]
+
+In 2019, Intel released the 10th-generation of Core processors, codenamed "Amber Lake", "Comet Lake", and "Ice Lake". Ice Lake, based on the Sunny Cove microarchitecture, was produced on the 10 nm process and was limited to low-power mobile processors. Both Amber Lake and Comet Lake were based on a refined 14 nm node, with the latter being used for desktop and high-performance mobile products and the former used for low-power mobile products.
+
+In September 2020, 11th-generation Core mobile processors, codenamed Tiger Lake, were launched.[172] Tiger Lake is based on the Willow Cove microarchitecture and a refined 10 nm node.[173] Intel later released 11th-generation Core desktop processors (codenamed "Rocket Lake"), fabricated using Intel's 14 nm process and based on the Cypress Cove microarchitecture,[174] on March 30, 2021.[175] It replaced Comet Lake desktop processors. All 11th-generation Core processors feature new integrated graphics based on the Intel Xe microarchitecture.[176]
+
+Both desktop and mobile products were unified under a single process node with the release of 12th-generation Intel Core processors (codenamed "Alder Lake") in late 2021.[177][178] This generation will be fabricated using Intel's 7 nm process, called Intel 7, for both desktop and mobile processors, and is based on a hybrid architecture utilizing high-performance Golden Cove cores and high-efficiency Gracemont (Atom) cores.[177]
+Meltdown, Spectre, and other security vulnerabilities
+Main article: Transient execution CPU vulnerability
+
+In early January 2018, it was reported that all Intel processors made since 1995[179][117] (besides Intel Itanium and pre-2013 Intel Atom) have been subject to two security flaws dubbed Meltdown and Spectre.[180][116]
+
+The impact on performance resulting from software patches is "workload-dependent". Several procedures to help protect home computers and related devices from the Spectre and Meltdown security vulnerabilities have been published.[181][182][183][184] Spectre patches have been reported to significantly slow down performance, especially on older computers; on the newer 8th-generation Core platforms, benchmark performance drops of 2–14% have been measured.[126] Meltdown patches may also produce performance loss.[127][128][129] It is believed that "hundreds of millions" of systems could be affected by these flaws.[117][185]
+
+On March 15, 2018, Intel reported that it will redesign its CPUs (performance losses to be determined) to protect against the Spectre security vulnerability, and expects to release the newly redesigned processors later in 2018.[124][125]
+
+On May 3, 2018, eight additional Spectre-class flaws were reported. Intel reported that they are preparing new patches to mitigate these flaws.[186]
+
+On August 14, 2018, Intel disclosed three additional chip flaws referred to as L1 Terminal Fault (L1TF). They reported that previously released microcode updates, along with new, pre-release microcode updates can be used to mitigate these flaws.[187][188]
+
+On January 18, 2019, Intel disclosed three new vulnerabilities affecting all Intel CPUs, named "Fallout", "RIDL", and "ZombieLoad", allowing a program to read information recently written, read data in the line-fill buffers and load ports, and leak information from other processes and virtual machines.[189][190][191] Coffee Lake-series CPUs are even more vulnerable, due to hardware mitigations for Spectre.[citation needed]
+
+On March 5, 2020, computer security experts reported another Intel chip security flaw, besides the Meltdown and Spectre flaws, with the systematic name CVE-2019-0090 (or "Intel CSME Bug").[120] This newly found flaw is not fixable with a firmware update, and affects nearly "all Intel chips released in the past five years".[121][122][123]
+Use of Intel products by Apple Inc. (2005–2019)
+Further information: Mac transition to Intel processors
+
+On June 6, 2005, Steve Jobs, then CEO of Apple, announced that Apple would be transitioning the Macintosh from its long favored PowerPC architecture to the Intel x86 architecture because the future PowerPC road map was unable to satisfy Apple's needs.[66][192] This was seen as a win for Intel,[67] although an analyst called the move "risky" and "foolish", as Intel's current offerings at the time were considered to be behind those of AMD and IBM.[68] The first Mac computers containing Intel CPUs were announced on January 10, 2006, and Apple had its entire line of consumer Macs running on Intel processors by early August 2006. The Apple Xserve server was updated to Intel Xeon processors from November 2006 and was offered in a configuration similar to Apple's Mac Pro.[193]
+
+Despite Apple's use of Intel products, relations between the two companies were strained at times.[194] Rumors of Apple switching from Intel processors to their own designs began circulating as early as 2011.[195] On June 22, 2020, during Apple's annual WWDC, Tim Cook, Apple's CEO, announced that it would be transitioning the company's entire Mac line from Intel CPUs to custom Apple-designed processors based on the Arm architecture over the course of the next two years. In the short term, this transition was estimated to have minimal effects on Intel, as Apple only accounted for 2% to 4% of its revenue. However, at the time it was believed that Apple's shift to its own chips might prompt other PC manufacturers to reassess their reliance on Intel and the x86 architecture.[133][134] By November 2020, Apple unveiled the M1, its processor custom-designed for the Mac.[196][197][198][199]
+Solid-state drives (SSD)
+See also: List of Intel SSDs
+An Intel mSATA SSD
+
+In 2008, Intel began shipping mainstream solid-state drives (SSDs) with up to 160 GB storage capacities.[200] As with their CPUs, Intel develops SSD chips using ever-smaller nanometer processes. These SSDs make use of industry standards such as NAND flash,[201] mSATA,[202] PCIe, and NVMe. In 2017, Intel introduced SSDs based on 3D XPoint technology under the Optane brand name.[203]
+
+In 2021, SK Hynix acquired most of Intel's NAND memory business[204] for $7 billion, with a remaining transaction worth $2 billion expected in 2025.[205] Intel also discontinued its consumer Optane products in 2021.[206] In July 2022, Intel disclosed in its Q2 earnings report that it would cease future product development within its Optane business, which in turn effectively discontinued the development of 3D XPoint as a whole.[207]
+Supercomputers
+
+The Intel Scientific Computers division was founded in 1984 by Justin Rattner, to design and produce parallel computers based on Intel microprocessors connected in hypercube internetwork topology.[208] In 1992, the name was changed to the Intel Supercomputing Systems Division, and development of the iWarp architecture was also subsumed.[209] The division designed several supercomputer systems, including the Intel iPSC/1, iPSC/2, iPSC/860, Paragon and ASCI Red. In November 2014, Intel stated that it was planning to use optical fibers to improve networking within supercomputers.[210]
+Fog computing
+
+On November 19, 2015, Intel, alongside Arm, Dell, Cisco Systems, Microsoft, and Princeton University, founded the OpenFog Consortium, to promote interests and development in fog computing.[211] Intel's Chief Strategist for the IoT Strategy and Technology Office, Jeff Fedders, became the consortium's first president.[212]
+Self-driving cars
+
+Intel is one of the biggest stakeholders in the self-driving car industry, having joined the race in mid 2017[213] after joining forces with Mobileye.[214] The company is also one of the first in the sector to research consumer acceptance, after an AAA report quoted a 78% nonacceptance rate of the technology in the U.S.[215]
+
+Safety levels of autonomous driving technology, the thought of abandoning control to a machine, and psychological comfort of passengers in such situations were the major discussion topics initially. The commuters also stated that they did not want to see everything the car was doing. This was primarily a referral to the auto-steering wheel with no one sitting in the driving seat. Intel also learned that voice control regulator is vital, and the interface between the humans and machine eases the discomfort condition, and brings some sense of control back.[216] It is important to mention that Intel included only 10 people in this study, which makes the study less credible.[215] In a video posted on YouTube,[217] Intel accepted this fact and called for further testing.
+Programmable devices
+
+Intel formed a new business unit called the Programmable Solutions Group (PSG) on completion of its Altera acquisition.[218] Intel has since sold Stratix, Arria, and Cyclone FPGAs. In 2019, Intel released Agilex FPGAs: chips aimed at data centers, 5G applications, and other uses.[219]
+
+In October 2023, Intel announced it would be spinning off PSG into a separate company at the start of 2024, while maintaining majority ownership.[220]
+Competition, antitrust and espionage
+See also: AMD v. Intel
+
+By the end of the 1990s, microprocessor performance had outstripped software demand for that CPU power.[citation needed] Aside from high-end server systems and software, whose demand dropped with the end of the "dot-com bubble",[221] consumer systems ran effectively on increasingly low-cost systems after 2000.
+
+Intel's strategy was to develop processors with better performance in a short time, from the appearance of one to the other, as seen with the appearance of the Pentium II in May 1997, the Pentium III in February 1999, and the Pentium 4 in the fall of 2000, making the strategy ineffective since the consumer did not see the innovation as essential,[222] and leaving an opportunity for rapid gains by competitors, notably AMD. This, in turn, lowered the profitability[citation needed] of the processor line and ended an era of unprecedented dominance of the PC hardware by Intel.[citation needed]
+
+Intel's dominance in the x86 microprocessor market led to numerous charges of antitrust violations over the years, including FTC investigations in both the late 1980s and in 1999, and civil actions such as the 1997 suit by Digital Equipment Corporation (DEC) and a patent suit by Intergraph. Intel's market dominance (at one time[when?] it controlled over 85% of the market for 32-bit x86 microprocessors) combined with Intel's own hardball legal tactics (such as its infamous 338 patent suit versus PC manufacturers)[223] made it an attractive target for litigation, culminating in Intel agreeing to pay AMD $1.25 billion and grant them a perpetual patent cross-license in 2009 as well as several anti-trust judgements in Europe, Korea, and Japan.[224]
+
+A case of industrial espionage arose in 1995 that involved both Intel and AMD. Bill Gaede, an Argentine formerly employed both at AMD and at Intel's Arizona plant, was arrested for attempting in 1993 to sell the i486 and P5 Pentium designs to AMD and to certain foreign powers.[225] Gaede videotaped data from his computer screen at Intel and mailed it to AMD, which immediately alerted Intel and authorities, resulting in Gaede's arrest. Gaede was convicted and sentenced to 33 months in prison in June 1996.[226][227]
+Corporate affairs
+Leadership and corporate structure
+Paul Otellini, Craig Barrett and Sean Maloney in 2006
+
+Robert Noyce was Intel's CEO at its founding in 1968, followed by co-founder Gordon Moore in 1975. Andy Grove became the company's president in 1979 and added the CEO title in 1987 when Moore became chairman. In 1998, Grove succeeded Moore as chairman, and Craig Barrett, already company president, took over. On May 18, 2005, Barrett handed the reins of the company over to Paul Otellini, who had been the company president and COO and who was responsible for Intel's design win in the original IBM PC. The board of directors elected Otellini as president and CEO, and Barrett replaced Grove as Chairman of the Board. Grove stepped down as chairman but is retained as a special adviser. In May 2009, Barrett stepped down as chairman of the board and was succeeded by Jane Shaw. In May 2012, Intel vice chairman Andy Bryant, who had held the posts of CFO (1994) and Chief Administrative Officer (2007) at Intel, succeeded Shaw as executive chairman.[228]
+
+In November 2012, president and CEO Paul Otellini announced that he would step down in May 2013 at the age of 62, three years before the company's mandatory retirement age. During a six-month transition period, Intel's board of directors commenced a search process for the next CEO, in which it considered both internal managers and external candidates such as Sanjay Jha and Patrick Gelsinger.[229] Financial results revealed that, under Otellini, Intel's revenue increased by 55.8% (US$34.2 to 53.3 billion), while its net income increased by 46.7% (US$7.5 billion to 11 billion),[230] proving that his illegal business practices were more profitable than the fines levied against the company as punishment for employing them.
+
+On May 2, 2013, Executive Vice President and COO Brian Krzanich was elected as Intel's sixth CEO,[231] a selection that became effective on May 16, 2013, at the company's annual meeting. Reportedly, the board concluded that an insider could proceed with the role and exert an impact more quickly, without the need to learn Intel's processes, and Krzanich was selected on such a basis.[232] Intel's software head Renée James was selected as president of the company, a role that is second to the CEO position.[233]
+
+As of May 2013, Intel's board of directors consists of Andy Bryant, John Donahoe, Frank Yeary, Ambassador Charlene Barshefsky, Susan Decker, Reed Hundt, Paul Otellini, James Plummer, David Pottruck, and David Yoffie and Creative director will.i.am. The board was described by former Financial Times journalist Tom Foremski as "an exemplary example of corporate governance of the highest order" and received a rating of ten from GovernanceMetrics International, a form of recognition that has only been awarded to twenty-one other corporate boards worldwide.[234]
+
+On June 21, 2018, Intel announced the resignation of Brian Krzanich as CEO, with the exposure of a relationship he had with an employee. Bob Swan was named interim CEO, as the Board began a search for a permanent CEO.
+
+On January 31, 2019, Swan transitioned from his role as CFO and interim CEO and was named by the Board as the seventh CEO to lead the company.[235]
+
+On January 13, 2021, Intel announced that Swan would be replaced as CEO by Pat Gelsinger, effective February 15. Gelsinger is a former Intel chief technology officer who had previously been head of VMWare.[236]
+
+In October 2023, Intel announced it would be spinning off its Programmable Solutions Group business unit into a separate company at the start of 2024, while maintaining majority ownership and intending to seek an IPO within three years to raise funds.[220][237]
+Ownership
+
+The 10 largest shareholder of Intel as of December 2023 were:[238]
+
+    Vanguard Group (9.12% of shares)
+    BlackRock (8.04%)
+    State Street (4.45%)
+    Capital International (2.29%)
+    Geode Capital Management (2.01%)
+    Primecap (1.78%)
+    Capital Research Global Investors (1.63%)
+    Morgan Stanley (1.18%)
+    Norges Bank (1.14%)
+    Northern Trust (1.05%)
+
+Board of directors
+
+As of March 2023:[239]
+
+    Frank D. Yeary (chairman), managing member of Darwin Capital
+    Pat Gelsinger, CEO of Intel[240]
+    James Goetz, managing director of Sequoia Capital
+    Andrea Goldsmith, dean of engineering and applied science at Princeton University
+    Alyssa Henry, Square, Inc. executive
+    Omar Ishrak, chairman and former CEO of Medtronic
+    Risa Lavizzo-Mourey, former president and CEO of the Robert Wood Johnson Foundation
+    Tsu-Jae King Liu, professor at the UC Berkeley College of Engineering
+    Barbara G. Novick, co-founder of BlackRock
+    Gregory Smith, CFO of Boeing
+    Dion Weisler, former president and CEO of HP Inc.
+    Lip-Bu Tan, executive chairman of Cadence Design Systems
+
+Employment
+Intel microprocessor facility in Costa Rica was responsible in 2006 for 20% of Costa Rican exports and 4.9% of the country's GDP.[241]
+
+Intel has a mandatory retirement policy for its CEOs when they reach age 65. Andy Grove retired at 62, while both Robert Noyce and Gordon Moore retired at 58. Grove retired as chairman and as a member of the board of directors in 2005 at age 68.
+
+Intel's headquarters are located in Santa Clara, California, and the company has operations around the world. Its largest workforce concentration anywhere is in Washington County, Oregon[242] (in the Portland metropolitan area's "Silicon Forest"), with 18,600 employees at several facilities.[243] Outside the United States, the company has facilities in China, Costa Rica, Malaysia, Israel, Ireland, India, Russia, Argentina and Vietnam, in 63 countries and regions internationally. In March 2022, because of international sanctions during the Russo-Ukrainian War, Intel stopped supplying Russian market.[244] In the U.S. Intel employs significant numbers of people in California, Colorado, Massachusetts, Arizona, New Mexico, Oregon, Texas, Washington and Utah. In Oregon, Intel is the state's largest private employer.[243][245] The company is the largest industrial employer in New Mexico while in Arizona the company has 12,000 employees as of January 2020.[246]
+
+Intel invests heavily in research in China and about 100 researchers – or 10% of the total number of researchers from Intel – are located in Beijing.[247]
+
+In 2011, the Israeli government offered Intel $290 million to expand in the country. As a condition, Intel would employ 1,500 more workers in Kiryat Gat and between 600 and 1000 workers in the north.[248]
+
+In January 2014, it was reported that Intel would cut about 5,000 jobs from its workforce of 107,000. The announcement was made a day after it reported earnings that missed analyst targets.[249]
+
+In March 2014, it was reported that Intel would embark upon a $6 billion plan to expand its activities in Israel. The plan calls for continued investment in existing and new Intel plants until 2030. As of 2014, Intel employs 10,000 workers at four development centers and two production plants in Israel.[250]
+
+Due to declining PC sales, in 2016 Intel cut 12,000 jobs.[251] In 2021, Intel reversed course under new CEO Pat Gelsinger and started hiring thousands of engineers.[252]
+Diversity
+
+Intel has a Diversity Initiative, including employee diversity groups as well as supplier diversity programs.[253] Like many companies with employee diversity groups, they include groups based on race and nationality as well as sexual identity and religion. In 1994, Intel sanctioned one of the earliest corporate Gay, Lesbian, Bisexual, and Transgender employee groups,[254] and supports a Muslim employees group,[255] a Jewish employees group,[256] and a Bible-based Christian group.[257][258]
+
+Intel has received a 100% rating on numerous Corporate Equality Indices released by the Human Rights Campaign including the first one released in 2002. In addition, the company is frequently named one of the 100 Best Companies for Working Mothers by Working Mother magazine.
+
+In January 2015, Intel announced the investment of $300 million over the next five years to enhance gender and racial diversity in their own company as well as the technology industry as a whole.[259][260][261][262][263]
+
+In February 2016, Intel released its Global Diversity & Inclusion 2015 Annual Report.[264] The male-female mix of US employees was reported as 75.2% men and 24.8% women. For US employees in technical roles, the mix was reported as 79.8% male and 20.1% female.[264] NPR reports that Intel is facing a retention problem (particularly for African Americans), not just a pipeline problem.[265]
+Economic impact in Oregon in 2009
+
+In 2011, ECONorthwest conducted an economic impact analysis of Intel's economic contribution to the state of Oregon. The report found that in 2009 "the total economic impacts attributed to Intel's operations, capital spending, contributions and taxes amounted to almost $14.6 billion in activity, including $4.3 billion in personal income and 59,990 jobs".[266] Through multiplier effects, every 10 Intel jobs supported, on average, was found to create 31 jobs in other sectors of the economy.[267]
+Intel Israel
+
+Intel has been operating in the State of Israel since Dov Frohman founded the Israeli branch of the company in 1974 in a small office in Haifa. Intel Israel currently has development centers in Haifa, Jerusalem and Petah Tikva, and has a manufacturing plant in the Kiryat Gat industrial park that develops and manufactures microprocessors and communications products. Intel employed about 10,000 employees in Israel in 2013. Maxine Fesberg has been the CEO of Intel Israel since 2007 and the Vice President of Intel Global. In December 2016, Fesberg announced her resignation, her position of chief executive officer (CEO) has been filled by Yaniv Gerti since January 2017.
+Key acquisitions and investments (2010–present)
+Main article: List of mergers and acquisitions by Intel
+
+In 2010, Intel purchased McAfee, a manufacturer of computer security technology, for $7.68 billion.[268] As a condition for regulatory approval of the transaction, Intel agreed to provide rival security firms with all necessary information that would allow their products to use Intel's chips and personal computers.[269] After the acquisition, Intel had about 90,000 employees, including about 12,000 software engineers.[270] In September 2016, Intel sold a majority stake in its computer-security unit to TPG Capital, reversing the five-year-old McAfee acquisition.[271]
+
+In August 2010, Intel and Infineon Technologies announced that Intel would acquire Infineon's Wireless Solutions business.[272] Intel planned to use Infineon's technology in laptops, smart phones, netbooks, tablets and embedded computers in consumer products, eventually integrating its wireless modem into Intel's silicon chips.[273]
+
+In March 2011, Intel bought most of the assets of Cairo-based SySDSoft.[274]
+
+In July 2011, Intel announced that it had agreed to acquire Fulcrum Microsystems Inc., a company specializing in network switches.[275] The company used to be included on the EE Times list of 60 Emerging Startups.[275]
+
+In October 2011, Intel reached a deal to acquire Telmap, an Israeli-based navigation software company. The purchase price was not disclosed, but Israeli media reported values around $300 million to $350 million.[276]
+
+In July 2012, Intel agreed to buy 10% of the shares of ASML Holding NV for $2.1 billion and another $1 billion for 5% of the shares that need shareholder approval to fund relevant research and development efforts, as part of a EUR3.3 billion ($4.1 billion) deal to accelerate the development of 450-millimeter wafer technology and extreme ultra-violet lithography by as much as two years.[277]
+
+In July 2013, Intel confirmed the acquisition of Omek Interactive, an Israeli company that makes technology for gesture-based interfaces, without disclosing the monetary value of the deal. An official statement from Intel read: "The acquisition of Omek Interactive will help increase Intel's capabilities in the delivery of more immersive perceptual computing experiences." One report estimated the value of the acquisition between US$30 million and $50 million.[278]
+
+The acquisition of a Spanish natural language recognition startup, Indisys was announced in September 2013. The terms of the deal were not disclosed but an email from an Intel representative stated: "Intel has acquired Indisys, a privately held company based in Seville, Spain. The majority of Indisys employees joined Intel. We signed the agreement to acquire the company on May 31 and the deal has been completed." Indysis explains that its artificial intelligence (AI) technology "is a human image, which converses fluently and with common sense in multiple languages and also works in different platforms".[279]
+
+In December 2014, Intel bought PasswordBox.[280]
+
+In January 2015, Intel purchased a 30% stake in Vuzix, a smart glasses manufacturer. The deal was worth $24.8 million.[281]
+
+In February 2015, Intel announced its agreement to purchase German network chipmaker Lantiq, to aid in its expansion of its range of chips in devices with Internet connection capability.[282]
+
+In June 2015, Intel announced its agreement to purchase FPGA design company Altera for $16.7 billion, in its largest acquisition to date.[283] The acquisition completed in December 2015.[284]
+
+In October 2015, Intel bought cognitive computing company Saffron Technology for an undisclosed price.[285]
+
+In August 2016, Intel purchased deep-learning startup Nervana Systems for over $400 million.[286]
+
+In December 2016, Intel acquired computer vision startup Movidius for an undisclosed price.[287]
+
+In March 2017, Intel announced that they had agreed to purchase Mobileye, an Israeli developer of "autonomous driving" systems for US$15.3 billion.[288]
+
+In June 2017, Intel Corporation announced an investment of over ₹1,100 crore (US$140 million) for its upcoming Research and Development (R&D) centre in Bangalore, India.[289]
+
+In January 2019, Intel announced an investment of over $11 billion on a new Israeli chip plant, as told by the Israeli Finance Minister.[290]
+
+In November 2021, Intel recruited some of the employees of the Centaur Technology division from VIA Technologies, a deal worth $125 million, and effectively acquiring the talent and knowhow of their x86 division.[291][292] VIA retained the x86 licence and associated patents, and its Zhaoxin CPU joint-venture continues.[293]
+
+In December 2021, Intel said it will invest $7.1 billion to build a new chip-packaging and testing factory in Malaysia. The new investment will expand the operations of its Malaysian subsidiary across Penang and Kulim, creating more than 4,000 new Intel jobs and more than 5,000 local construction jobs.[294]
+
+In December 2021, Intel announced its plan to take Mobileye automotive unit via an IPO of newly issued stock in 2022, maintaining its majority ownership of the company.[295]
+
+In February 2022, Intel agreed to acquire Israeli chip manufacturer Tower Semiconductor for $5.4 billion.[296][297] In August 2023, Intel terminated the acquisition as it failed to obtain approval from Chinese regulators within the 18-month transaction deadline.[298][299]
+
+In May 2022, Intel announced that they have acquired Finnish graphics technology firm Siru innovations. The firm founded by ex-AMD Qualcomm mobile GPU engineers, is focused on developing software and silicon building blocks for GPU's made by other companies and is set to join Intel's fledgling Accelerated Computing Systems and Graphics Group.[300]
+
+In May 2022, it was announced that Ericsson and Intel are pooling research and development to create high-performing cloud RAN solutions.[buzzword] The organisations have pooled to launch a tech hub in California, U.S. The hub focuses on the benefits that Ericsson Cloud RAN and Intel technology can bring to: improving energy efficiency and network performance, reducing time to market, and monetizing new business opportunities such as enterprise applications.[301]
+Ultrabook fund (2011)
+
+In 2011, Intel Capital announced a new fund to support startups working on technologies in line with the company's concept for next-generation notebooks.[302] The company is setting aside a $300 million fund to be spent over the next three to four years in areas related to ultrabooks.[302] Intel announced the ultrabook concept at Computex in 2011. The ultrabook is defined as a thin (less than 0.8 inches [~2 cm] thick[303]) notebook that utilizes Intel processors[303] and also incorporates tablet features such as a touch screen and long battery life.[302][303]
+
+At the Intel Developers Forum in 2011, four Taiwan ODMs showed prototype ultrabooks that used Intel's Ivy Bridge chips.[304] Intel plans to improve power consumption of its chips for ultrabooks, like new Ivy Bridge processors in 2013, which will only have 10W default thermal design power.[305]
+
+Intel's goal for Ultrabook's price is below $1000;[303] however, according to two presidents from Acer and Compaq, this goal will not be achieved if Intel does not lower the price of its chips.[306]
+Open source support
+
+Intel has a significant participation in the open source communities since 1999.[307][self-published source] For example, in 2006 Intel released MIT-licensed X.org drivers for their integrated graphic cards of the i965 family of chipsets. Intel released FreeBSD drivers for some networking cards,[308] available under a BSD-compatible license,[309] which were also ported to OpenBSD.[309] Binary firmware files for non-wireless Ethernet devices were also released under a BSD licence allowing free redistribution.[310] Intel ran the Moblin project until April 23, 2009, when they handed the project over to the Linux Foundation. Intel also runs the LessWatts.org campaigns.[311]
+
+However, after the release of the wireless products called Intel Pro/Wireless 2100, 2200BG/2225BG/2915ABG and 3945ABG in 2005, Intel was criticized for not granting free redistribution rights for the firmware that must be included in the operating system for the wireless devices to operate.[312] As a result of this, Intel became a target of campaigns to allow free operating systems to include binary firmware on terms acceptable to the open source community. Linspire-Linux creator Michael Robertson outlined the difficult position that Intel was in releasing to open source, as Intel did not want to upset their large customer Microsoft.[313] Theo de Raadt of OpenBSD also claimed that Intel is being "an Open Source fraud" after an Intel employee presented a distorted view of the situation at an open source conference.[314] In spite of the significant negative attention Intel received as a result of the wireless dealings, the binary firmware still has not gained a license compatible with free software principles.[315]
+
+Intel has also supported other open source projects such as Blender[316] and Open 3D Engine.[317]
+Corporate identity
+Logo
+Logo history
+1968–2006
+2006–2020
+2020–2022
+2022-current
+
+In its history, Intel has had three logos. The first Intel logo featured the company's name stylized in all lowercase, with the letter e dropped below the other letters. The second logo was inspired by the "Intel Inside" campaign, featuring a swirl around the Intel brand name.[318]
+
+The third logo, introduced in 2020, was inspired by the previous logos. It removes the swirl as well as the classic blue color in almost all parts of the logo, except for the dot in the "i".[319]
+Intel Inside
+The "Intel Inside" logo used from 1991 to 2003
+The "Intel Inside" logo used from 2003 to 2006
+The "Intel Inside" logo used from 2006 to 2014, continuously underwent a minor font and shade of color modification to be used until 2020
+The current "Intel Inside" badge has been used since 2020. It is also adopted as the umbrella branding to promote Intel's low-end processors from 2023.
+
+Intel has become one of the world's most recognizable computer brands following its long-running Intel Inside campaign. The idea for "Intel Inside" came out of a meeting between Intel and one of the major computer resellers, MicroAge.[320]
+
+In the late 1980s, Intel's market share was being seriously eroded by upstart competitors such as AMD, Zilog, and others who had started to sell their less expensive microprocessors to computer manufacturers. This was because, by using cheaper processors, manufacturers could make cheaper computers and gain more market share in an increasingly price-sensitive market. In 1989, Intel's Dennis Carter visited MicroAge's headquarters in Tempe, Arizona, to meet with MicroAge's VP of Marketing, Ron Mion. MicroAge had become one of the largest distributors of Compaq, IBM, HP, and others and thus was a primary – although indirect – driver of demand for microprocessors. Intel wanted MicroAge to petition its computer suppliers to favor Intel chips. However, Mion felt that the marketplace should decide which processors they wanted. Intel's counterargument was that it would be too difficult to educate PC buyers on why Intel microprocessors were worth paying more for.[320]
+
+Mion felt that the public did not really need to fully understand why Intel chips were better, they just needed to feel they were better. So Mion proposed a market test. Intel would pay for a MicroAge billboard somewhere saying, "If you're buying a personal computer, make sure it has Intel inside." In turn, MicroAge would put "Intel Inside" stickers on the Intel-based computers in their stores in that area. To make the test easier to monitor, Mion decided to do the test in Boulder, Colorado, where it had a single store. Virtually overnight, the sales of personal computers in that store dramatically shifted to Intel-based PCs. Intel very quickly adopted "Intel Inside" as its primary branding and rolled it out worldwide.[320] As is often the case with computer lore, other tidbits have been combined to explain how things evolved. "Intel Inside" has not escaped that tendency and there are other "explanations" that had been floating around.
+
+Intel's branding campaign started with "The Computer Inside" tagline in 1990 in the U.S. and Europe. The Japan chapter of Intel proposed an "Intel in it" tagline and kicked off the Japanese campaign by hosting EKI-KON (meaning "Station Concert" in Japanese) at the Tokyo railway station dome on Christmas Day, December 25, 1990. Several months later, "The Computer Inside" incorporated the Japan idea to become "Intel Inside" which eventually elevated to the worldwide branding campaign in 1991, by Intel marketing manager Dennis Carter.[321] A case study, "Inside Intel Inside", was put together by Harvard Business School.[322] The five-note jingle was introduced in 1994 and by its tenth anniversary was being heard in 130 countries around the world. The initial branding agency for the "Intel Inside" campaign was DahlinSmithWhite Advertising of Salt Lake City.[323] The Intel swirl logo was the work of DahlinSmithWhite art director Steve Grigg under the direction of Intel president and CEO Andy Grove.[citation needed]
+
+The Intel Inside advertising campaign sought public brand loyalty and awareness of Intel processors in consumer computers.[324] Intel paid some of the advertiser's costs for an ad that used the Intel Inside logo and xylo-marimba jingle.[325]
+
+In 2008, Intel planned to shift the emphasis of its Intel Inside campaign from traditional media such as television and print to newer media such as the Internet.[326] Intel required that a minimum of 35% of the money it provided to the companies in its co-op program be used for online marketing.[326] The Intel 2010 annual financial report indicated that $1.8 billion (6% of the gross margin and nearly 16% of the total net income) was allocated to all advertising with Intel Inside being part of that.[327]
+Intel jingle
+	
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.
+Find sources: "Intel" – news · newspapers · books · scholar · JSTOR (March 2022) (Learn how and when to remove this template message)
+\new Staff \with { \remove "Time_signature_engraver" } \relative c' { \time 3/2 \tempo 4 = 133 \set Score.tempoHideNote = ##t \set Staff.midiInstrument = #"marimba" des2\fermata des8 ges des as'2 }
+
+The D♭–D♭–G♭–D♭–A♭ xylophone/marimba jingle, known as the "Intel bong",[328] used in Intel advertising was produced by Musikvergnuegen and written by Walter Werzowa, once a member of the Austrian 1980s sampling band Edelweiss.[329] The Intel jingle was made in 1994 to coincide with the launch of the Pentium. It was modified in 1999 to coincide with the launch of the Pentium III, although it overlapped with the 1994 version which was phased out in 2004. Advertisements for products featuring Intel processors with prominent MMX branding featured a version of the jingle with an embellishment (shining sound) after the final note.
+
+The jingle was remade a second time in 2004 to coincide with the new logo change.[citation needed] Again, it overlapped with the 1999 version and was not mainstreamed until the launch of the Core processors in 2006, with the melody unchanged.
+
+Another remake of the jingle debuted with Intel's new visual identity.[330] The company has made use of numerous variants since its rebranding in 2020 (while retaining the mainstream 2006 version).
+Processor naming strategy
+The 2020 Intel badge representing the Core i7 brand combined with the vPRO platform marketing term
+
+In 2006, Intel expanded its promotion of open specification platforms beyond Centrino, to include the Viiv media center PC and the business desktop Intel vPro.
+
+In mid-January 2006, Intel announced that they were dropping the long running Pentium name from their processors. The Pentium name was first used to refer to the P5 core Intel processors and was done to comply with court rulings that prevent the trademarking of a string of numbers, so competitors could not just call their processor the same name, as had been done with the prior 386 and 486 processors (both of which had copies manufactured by IBM and AMD). They phased out the Pentium names from mobile processors first, when the new Yonah chips, branded Core Solo and Core Duo, were released. The desktop processors changed when the Core 2 line of processors were released. By 2009, Intel was using a good–better–best strategy with Celeron being good, Pentium better, and the Intel Core family representing the best the company has to offer.[331]
+
+According to spokesman Bill Calder, Intel has maintained only the Celeron brand, the Atom brand for netbooks and the vPro lineup for businesses. Since late 2009, Intel's mainstream processors have been called Celeron, Pentium, Core i3, Core i5, Core i7, and Core i9 in order of performance from lowest to highest. The 1st-generation Core products carry a 3 digit name, such as i5-750, and the 2nd-generation products carry a 4 digit name, such as the i5-2500, and from 10th-generation onwards, Intel processors will have a 5 digit name, such as i9-10900K for desktop. In all cases, a 'K' at the end of it shows that it is an unlocked processor, enabling additional overclocking abilities (for instance, 2500K). vPro products will carry the Intel Core i7 vPro processor or the Intel Core i5 vPro processor name.[332] In October 2011, Intel started to sell its Core i7-2700K "Sandy Bridge" chip to customers worldwide.[333]
+
+Since 2010, "Centrino" is only being applied to Intel's WiMAX and Wi-Fi technologies.[332]
+
+In 2022, Intel announced that they are dropping the Pentium and Celeron naming schemes for their desktop and laptop entry level processors. The "Intel Processor" branding will be replacing the old Pentium and Celeron naming schemes starting in 2023.[334][335]
+
+In 2023, Intel announced that they will be dropping the 'i' in their future processor markings. For example, products such as Core i9, will now be called Core 9. Ultra will be added to the endings of processors that are in the higher end, such as Core Ultra 9.[336][337]
+Typography
+
+Neo Sans Intel is a customized version of Neo Sans based on the Neo Sans and Neo Tech, designed by Sebastian Lester in 2004.[338] It was introduced alongside Intel's rebranding in 2006. Previously, Intel used Helvetica as its standard typeface in corporate marketing.
+
+Intel Clear is a global font announced in 2014 designed for to be used across all communications.[339][340] The font family was designed by Red Peek Branding and Dalton Maag[341] Initially available in Latin, Greek and Cyrillic scripts, it replaced Neo Sans Intel as the company's corporate typeface.[342][343] Intel Clear Hebrew, Intel Clear Arabic were added by Dalton Maag Ltd.[344] Neo Sans Intel remained in logo and to mark processor type and socket on the packaging of Intel's processors.
+
+In 2020, as part of a new visual identity, a new typeface, Intel One, was designed. It replaced Intel Clear as the font used by the company in most of its branding, however, it is used alongside Intel Clear typeface.[345] In logo, it replaced Neo Sans Intel typeface. However, it is still used to mark processor type and socket on the packaging of Intel's processors.
+Intel Brand Book
+
+It is a book produced by Red Peak Branding as part of new brand identity campaign, celebrating Intel's achievements while setting the new standard for what Intel looks, feels and sounds like.[346]
+Charity
+Paddington Bear statue in London designed by Intel, auctioned for the NSPCC
+
+In November 2014, Intel designed a Paddington Bear statue—themed "Little Bear Blue"—one of fifty statues created by various celebrities and companies which were located around London.[347] Created prior to the release of the film Paddington, the Intel designed statue was located outside Framestore in Chancery Lane, London, a British visual-effects company which uses Intel technology for films including Paddington.[348] The statues were then auctioned to raise funds for the National Society for the Prevention of Cruelty to Children (NSPCC).[347][349]
+Litigations and regulatory disputes
+Patent infringement litigation (2006–2007)
+
+In October 2006, a Transmeta lawsuit was filed against Intel for patent infringement on computer architecture and power efficiency technologies.[350] The lawsuit was settled in October 2007, with Intel agreeing to pay US$150 million initially and US$20 million per year for the next five years. Both companies agreed to drop lawsuits against each other, while Intel was granted a perpetual non-exclusive license to use current and future patented Transmeta technologies in its chips for 10 years.[351]
+Antitrust allegations and litigation (2005–2023)
+Main article: High-Tech Employee Antitrust Litigation
+See also: AMD v. Intel
+
+In September 2005, Intel filed a response to an AMD lawsuit,[352] disputing AMD's claims, and claiming that Intel's business practices are fair and lawful. In a rebuttal, Intel deconstructed AMD's offensive strategy and argued that AMD struggled largely as a result of its own bad business decisions, including underinvest
+
+chip foundries.[353] Legal analysts predicted the lawsuit would drag on for a number of years, since Intel's initial response indicated its unwillingness to settle with AMD.[354][355] In 2008, a court date was finally set.[356][357]
+
+On November 4, 2009, New York's attorney general filed an antitrust lawsuit against Intel Corp, claiming the company used "illegal threats and collusion" to dominate the market for computer microprocessors.
+
+On November 12, 2009, AMD agreed to drop the antitrust lawsuit against Intel in exchange for $1.25 billion.[357] A joint press release published by the two chip makers stated "While the relationship between the two companies has been difficult in the past, this agreement ends the legal disputes and enables the companies to focus all of our efforts on product innovation and development."[358][359]
+
+An antitrust lawsuit[360] and a class-action suit relating to cold calling employees of other companies has been settled.[361]
+Allegations by Japan Fair Trade Commission (2005)
+
+In 2005, the local Fair Trade Commission found that Intel violated the Japanese Antimonopoly Act. The commission ordered Intel to eliminate discounts that had discriminated against AMD. To avoid a trial, Intel agreed to comply with the order.[362][363][364][365]
+Allegations by regulators in South Korea (2007)
+
+In September 2007, South Korean regulators accused Intel of breaking antitrust law. The investigation began in February 2006, when officials raided Intel's South Korean offices. The company risked a penalty of up to 3% of its annual sales if found guilty.[366] In June 2008, the Fair Trade Commission ordered Intel to pay a fine of US$25.5 million for taking advantage of its dominant position to offer incentives to major Korean PC manufacturers on the condition of not buying products from AMD.[367]
+Allegations by regulators in the United States (2008–2010)
+
+New York started an investigation of Intel in January 2008 on whether the company violated antitrust laws in pricing and sales of its microprocessors.[368] In June 2008, the Federal Trade Commission also began an antitrust investigation of the case.[369] In December 2009, the FTC announced it would initiate an administrative proceeding against Intel in September 2010.[370][371][372][373]
+
+In November 2009, following a two-year investigation, New York Attorney General Andrew Cuomo sued Intel, accusing them of bribery and coercion, claiming that Intel bribed computer makers to buy more of their chips than those of their rivals and threatened to withdraw these payments if the computer makers were perceived as working too closely with its competitors. Intel has denied these claims.[374]
+
+On July 22, 2010, Dell agreed to a settlement with the U.S. Securities and Exchange Commission (SEC) to pay $100 million in penalties resulting from charges that Dell did not accurately disclose accounting information to investors. In particular, the SEC charged that from 2002 to 2006, Dell had an agreement with Intel to receive rebates in exchange for not using chips manufactured by AMD. These substantial rebates were not disclosed to investors, but were used to help meet investor expectations regarding the company's financial performance; "These exclusivity payments grew from 10% of Dell's operating income in FY 2003 to 38% in FY 2006, and peaked at 76% in the first quarter of FY 2007."[375] Dell eventually did adopt AMD as a secondary supplier in 2006, and Intel subsequently stopped their rebates, causing Dell's financial performance to fall.[376][377][378]
+Allegations by the European Union (2007–2023)
+
+In July 2007, the European Commission accused Intel of anti-competitive practices, mostly against AMD.[379] The allegations, going back to 2003, include giving preferential prices to computer makers buying most or all of their chips from Intel, paying computer makers to delay or cancel the launch of products using AMD chips, and providing chips at below standard cost to governments and educational institutions.[380] Intel responded that the allegations were unfounded and instead qualified its market behavior as consumer-friendly.[380] General counsel Bruce Sewell responded that the commission had misunderstood some factual assumptions regarding pricing and manufacturing costs.[381]
+
+In February 2008, Intel announced that its office in Munich had been raided by European Union regulators. Intel reported that it was cooperating with investigators.[382] Intel faced a fine of up to 10% of its annual revenue if found guilty of stifling competition.[383] AMD subsequently launched a website promoting these allegations.[384][385] In June 2008, the EU filed new charges against Intel.[386] In May 2009, the EU found that Intel had engaged in anti-competitive practices and subsequently fined Intel €1.06 billion (US$1.44 billion), a record amount. Intel was found to have paid companies, including Acer, Dell, HP, Lenovo and NEC,[387] to exclusively use Intel chips in their products, and therefore harmed other, less successful companies including AMD.[387][388][389] The European Commission said that Intel had deliberately acted to keep competitors out of the computer chip market and in doing so had made a "serious and sustained violation of the EU's antitrust rules".[387] In addition to the fine, Intel was ordered by the commission to immediately cease all illegal practices.[387] Intel has said that they will appeal against the commission's verdict. In June 2014, the General Court, which sits below the European Court of Justice, rejected the appeal.[387]
+
+In 2022 the €1.06 billion fine was dropped, but was successively re-imposed in September 2023 as a €376.36 million fine.[390]
+Corporate responsibility record
+
+Intel has been accused by some residents of Rio Rancho, New Mexico of allowing volatile organic compounds (VOCs) to be released in excess of their pollution permit. One resident claimed that a release of 1.4 tons of carbon tetrachloride was measured from one acid scrubber during the fourth quarter of 2003 but an emission factor allowed Intel to report no carbon tetrachloride emissions for all of 2003.[391]
+
+Another resident alleges that Intel was responsible for the release of other VOCs from their Rio Rancho site and that a necropsy of lung tissue from two deceased dogs in the area indicated trace amounts of toluene, hexane, ethylbenzene, and xylene isomers,[392] all of which are solvents used in industrial settings but also commonly found in gasoline, retail paint thinners and retail solvents. During a sub-committee meeting of the New Mexico Environment Improvement Board, a resident claimed that Intel's own reports documented more than 1,580 pounds (720 kg) of VOCs were released in June and July 2006.[393]
+
+Intel's environmental performance is published annually in their corporate responsibility report.[394]
+Conflict-free production
+
+In 2009, Intel announced that it planned to undertake an effort to remove conflict resources—materials sourced from mines whose profits are used to fund armed militant groups, particularly within the Democratic Republic of the Congo—from its supply chain. Intel sought conflict-free sources of the precious metals common to electronics from within the country, using a system of first- and third-party audits, as well as input from the Enough Project and other organizations. During a keynote address at Consumer Electronics Show 2014, Intel CEO at the time, Brian Krzanich, announced that the company's microprocessors would henceforth be conflict free. In 2016, Intel stated that it had expected its entire supply chain to be conflict-free by the end of the year.[395][396][397]
+
+In its 2012 rankings on the progress of consumer electronics companies relating to conflict minerals, the Enough Project rated Intel the best of 24 companies, calling it a "Pioneer of progress".[398] In 2014, chief executive Brian Krzanich urged the rest of the industry to follow Intel's lead by also shunning conflict minerals.[399]
+Age discrimination complaints
+
+Intel has faced complaints of age discrimination in firing and layoffs. Intel was sued in 1993 by nine former employees, over allegations that they were laid off because they were over the age of 40.[400]
+
+A group called FACE Intel (Former and Current Employees of Intel) claims that Intel weeds out older employees. FACE Intel claims that more than 90% of people who have been laid off or fired from Intel are over the age of 40. Upside magazine requested data from Intel breaking out its hiring and firing by age, but the company declined to provide any.[401] Intel has denied that age plays any role in Intel's employment practices.[402] FACE Intel was founded by Ken Hamidi, who was fired from Intel in 1995 at the age of 47.[401] Hamidi was blocked in a 1999 court decision from using Intel's email system to distribute criticism of the company to employees,[403] which overturned in 2003 in Intel Corp. v. Hamidi.
+Tax dispute in India
+
+In August 2016, Indian officials of the Bruhat Bengaluru Mahanagara Palike (BBMP) parked garbage trucks on Intel's campus and threatened to dump them for evading payment of property taxes between 2007 and 2008, to the tune of ₹340 million (US$4.3 million). Intel had reportedly been paying taxes as a non-air-conditioned office, when the campus in fact had central air conditioning. Other factors, such as land acquisition and construction improvements, added to the tax burden. Previously, Intel had appealed the demand in the Karnataka high court in July, during which the court ordered Intel to pay BBMP half the owed amount of ₹170 million (US$2.1 million) plus arrears by August 28 of that year.[404][405]
+
+Advanced Micro Devices, Inc. (AMD) is an American multinational corporation and semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets.
+
+AMD's main products include microprocessors, motherboard chipsets, embedded processors, graphics processors, and FPGAs for servers, workstations, personal computers, and embedded system applications. The company has also expanded into new markets, such as the data center, gaming, and high-performance computing[2] markets. AMD's processors are used in a wide range of computing devices, including personal computers, servers, laptops, and gaming consoles. While it initially manufactured its own processors, the company later outsourced its manufacturing, after GlobalFoundries was spun off in 2009.
+
+AMD was founded in 1969 by Jerry Sanders and a group of other technology professionals. The company's early products were primarily memory chips and other components for computers. In 1975, AMD entered the microprocessor market, competing with Intel, its main rival in the industry. In the early 2000s, it experienced significant growth and success, thanks in part to its strong position in the PC market and the success of its Athlon and Opteron processors. However, the company faced challenges in the late 2000s and early 2010s, as it struggled to keep up with Intel in the race to produce faster and more powerful processors.
+
+In the late 2010s, AMD regained market share due to the success of its Ryzen processors which were considerably more competitive with Intel microprocessors in terms of their performance in business applications, including cloud applications.[citation needed]
+History
+AMD's former headquarters in Sunnyvale, California (demolished in 2019)
+AMD's campus in Markham, Ontario, Canada, formerly ATI headquarters
+AMD's LEED-certified Lone Star campus in Austin, Texas
+Foundational years
+
+Advanced Micro Devices was formally incorporated by Jerry Sanders, along with seven of his colleagues from Fairchild Semiconductor, on May 1, 1969.[3][4] Sanders, an electrical engineer who was the director of marketing at Fairchild, had, like many Fairchild executives, grown frustrated with the increasing lack of support, opportunity, and flexibility within the company. He later decided to leave to start his own semiconductor company,[5] following the footsteps of Robert Noyce (developer of the first silicon integrated circuit at Fairchild in 1959)[6] and Gordon Moore, who together founded the semiconductor company Intel in July 1968.[7]
+
+In September 1969, AMD moved from its temporary location in Santa Clara to Sunnyvale, California.[8] To immediately secure a customer base, AMD initially became a second source supplier of microchips designed by Fairchild and National Semiconductor.[9][10] AMD first focused on producing logic chips.[11] The company guaranteed quality control to United States Military Standard, an advantage in the early computer industry since unreliability in microchips was a distinct problem that customers – including computer manufacturers, the telecommunications industry, and instrument manufacturers – wanted to avoid.[9][12][13][14]
+
+In November 1969, the company manufactured its first product: the Am9300, a 4-bit MSI shift register, which began selling in 1970.[14][15] Also in 1970, AMD produced its first proprietary product, the Am2501 logic counter, which was highly successful.[16][17] Its bestselling product in 1971 was the Am2505, the fastest multiplier available.[16][18]
+
+In 1971, AMD entered the RAM chip market, beginning with the Am3101, a 64-bit bipolar RAM.[18][19] That year AMD also greatly increased the sales volume of its linear integrated circuits, and by year-end the company's total annual sales reached US$4.6 million.[16][20]
+
+AMD went public in September 1972.[9][21][22] The company was a second source for Intel MOS/LSI circuits by 1973, with products such as Am14/1506 and Am14/1507, dual 100-bit dynamic shift registers.[23][24] By 1975, AMD was producing 212 products – of which 49 were proprietary, including the Am9102 (a static N-channel 1024-bit RAM)[25] and three low-power Schottky MSI circuits: Am25LS07, Am25LS08, and Am25LS09.[26]
+
+Intel had created the first microprocessor, its 4-bit 4004, in 1971.[27][28] By 1975, AMD entered the microprocessor market with the Am9080, a reverse-engineered clone of the Intel 8080,[29][30][31] and the Am2900 bit-slice microprocessor family.[30] When Intel began installing microcode in its microprocessors in 1976, it entered into a cross-licensing agreement with AMD, which was granted a copyright license to the microcode in its microprocessors and peripherals, effective October 1976.[26][32][33][34][35]
+
+In 1977, AMD entered into a joint venture with Siemens, a German engineering conglomerate wishing to enhance its technology expertise and enter the American market.[36] Siemens purchased 20% of AMD's stock, giving the company an infusion of cash to increase its product lines.[36][37][38] The two companies also jointly established Advanced Micro Computers (AMC), located in Silicon Valley and in Germany, allowing AMD to enter the microcomputer development and manufacturing field,[36][39][40][41] in particular based on AMD's second-source Zilog Z8000 microprocessors.[42][43] When the two companies' vision for Advanced Micro Computers diverged, AMD bought out Siemens' stake in the American division in 1979.[44][45] AMD closed Advanced Micro Computers in late 1981 after switching focus to manufacturing second-source Intel x86 microprocessors.[42][46][47]
+
+Total sales in fiscal year 1978 topped $100 million,[39] and in 1979, AMD debuted on the New York Stock Exchange.[17] In 1979, production also began on AMD's new semiconductor fabrication plant in Austin, Texas;[17] the company already had overseas assembly facilities in Penang and Manila,[48] and began construction on a fabrication plant in San Antonio in 1981.[49] In 1980, AMD began supplying semiconductor products for telecommunications, an industry undergoing rapid expansion and innovation.[50]
+Intel partnership
+
+Intel had introduced the first x86 microprocessors in 1978.[51] In 1981, IBM created its PC, and wanted Intel's x86 processors, but only under the condition that Intel also provide a second-source manufacturer for its patented x86 microprocessors.[12] Intel and AMD entered into a 10-year technology exchange agreement, first signed in October 1981[46][52] and formally executed in February 1982.[35] The terms of the agreement were that each company could acquire the right to become a second-source manufacturer of semiconductor products developed by the other; that is, each party could "earn" the right to manufacture and sell a product developed by the other, if agreed to, by exchanging the manufacturing rights to a product of equivalent technical complexity. The technical information and licenses needed to make and sell a part would be exchanged for a royalty to the developing company.[34] The 1982 agreement also extended the 1976 AMD–Intel cross-licensing agreement through 1995.[34][35] The agreement included the right to invoke arbitration of disagreements, and after five years the right of either party to end the agreement with one year's notice.[34] The main result of the 1982 agreement was that AMD became a second-source manufacturer of Intel's x86 microprocessors and related chips, and Intel provided AMD with database tapes for its 8086, 80186, and 80286 chips.[35] However, in the event of a bankruptcy or takeover of AMD, the cross-licensing agreement would be effectively canceled.[53]
+
+Beginning in 1982, AMD began volume-producing second-source Intel-licensed 8086, 8088, 80186, and 80188 processors, and by 1984, its own Am286 clone of Intel's 80286 processor, for the rapidly growing market of IBM PCs and IBM clones.[12][54] It also continued its successful concentration on proprietary bipolar chips.[55]
+
+The company continued to spend greatly on research and development,[56] and created the world's first 512K EPROM in 1984.[57] That year, AMD was listed in the book The 100 Best Companies to Work for in America,[49][58] and later made the Fortune 500 list for the first time in 1985.[59][60]
+
+By mid-1985, the microchip market experienced a severe downturn, mainly due to long-term aggressive trade practices (dumping) from Japan, but also due to a crowded and non-innovative chip market in the United States.[61] AMD rode out the mid-1980s crisis by aggressively innovating and modernizing,[62] devising the Liberty Chip program of designing and manufacturing one new chip or chipset per week for 52 weeks in fiscal year 1986,[49][63] and by heavily lobbying the U.S. government until sanctions and restrictions were put in place to prevent predatory Japanese pricing.[64] During this time, AMD withdrew from the DRAM market,[65] and made some headway into the CMOS market, which it had lagged in entering, having focused instead on bipolar chips.[66]
+
+AMD had some success in the mid-1980s with the AMD7910 and AMD7911 "World Chip" FSK modem, one of the first multi-standard devices that covered both Bell and CCITT tones at up to 1200 baud half duplex or 300/300 full duplex.[67] Beginning in 1986, AMD embraced the perceived shift toward RISC with their own AMD Am29000 (29k) processor;[68] the 29k survived as an embedded processor.[69][70] The company also increased its EPROM memory market share in the late 1980s.[71] Throughout the 1980s, AMD was a second-source supplier of Intel x86 processors. In 1991, it introduced its own 386-compatible Am386, an AMD-designed chip. Creating its own chips, AMD began to compete directly with Intel.[72]
+
+AMD had a large, successful flash memory business, even during the dotcom bust.[73] In 2003, to divest some manufacturing and aid its overall cash flow, which was under duress from aggressive microprocessor competition from Intel, AMD spun off its flash memory business and manufacturing into Spansion, a joint venture with Fujitsu, which had been co-manufacturing flash memory with AMD since 1993.[74][75] In December 2005, AMD divested itself of Spansion to focus on the microprocessor market, and Spansion went public in an IPO.[76]
+2006–present
+
+On July 24, 2006, AMD announced its acquisition of the Canadian 3D graphics card company ATI Technologies. AMD paid $4.3 billion and 58 million shares of its capital stock, for a total of approximately $5.4 billion. The transaction was completed on October 25, 2006.[77] On August 30, 2010, AMD announced that it would retire the ATI brand name for its graphics chipsets in favor of the AMD brand name.[78][79]
+
+In October 2008, AMD announced plans to spin off manufacturing operations in the form of GlobalFoundries Inc., a multibillion-dollar joint venture with Advanced Technology Investment Co., an investment company formed by the government of Abu Dhabi. The partnership and spin-off gave AMD an infusion of cash and allowed it to focus solely on chip design.[80] To assure the Abu Dhabi investors of the new venture's success, AMD's CEO Hector Ruiz stepped down in July 2008, while remaining executive chairman, in preparation for becoming chairman of GlobalFoundries in March 2009.[81][82] President and COO Dirk Meyer became AMD's CEO.[83] Recessionary losses necessitated AMD cutting 1,100 jobs in 2009.[84]
+
+In August 2011, AMD announced that former Lenovo executive Rory Read would be joining the company as CEO, replacing Meyer.[85] In November 2011, AMD announced plans to lay off more than 10% (1,400) of its employees from across all divisions worldwide.[86] In October 2012, it announced plans to lay off an additional 15% of its workforce to reduce costs in the face of declining sales revenue.[87]
+
+AMD acquired the low-power server manufacturer SeaMicro in early 2012, with an eye to bringing out an Arm64 server chip.[88]
+
+On October 8, 2014, AMD announced that Rory Read had stepped down after three years as president and chief executive officer.[89] He was succeeded by Lisa Su, a key lieutenant who had been serving as chief operating officer since June.[90]
+
+On October 16, 2014, AMD announced a new restructuring plan along with its Q3 results. Effective July 1, 2014, AMD reorganized into two business groups: Computing and Graphics, which primarily includes desktop and notebook processors and chipsets, discrete GPUs, and professional graphics; and Enterprise, Embedded, and Semi-Custom, which primarily includes server and embedded processors, dense servers, semi-custom SoC products (including solutions for gaming consoles), engineering services, and royalties. As part of this restructuring, AMD announced that 7% of its global workforce would be laid off by the end of 2014.[91]
+
+After the GlobalFoundries spin-off and subsequent layoffs, AMD was left with significant vacant space at 1 AMD Place, its aging Sunnyvale headquarters office complex. In August 2016, AMD's 47 years in Sunnyvale came to a close when it signed a lease with the Irvine Company for a new 220,000 sq. ft. headquarters building in Santa Clara.[92] AMD's new location at Santa Clara Square faces the headquarters of archrival Intel across the Bayshore Freeway and San Tomas Aquino Creek. Around the same time, AMD also agreed to sell 1 AMD Place to the Irvine Company.[93] In April 2019, the Irvine Company secured approval from the Sunnyvale City Council of its plans to demolish 1 AMD Place and redevelop the entire 32-acre site into townhomes and apartments.[93]
+
+In October 2020, AMD announced that it was acquiring Xilinx in an all-stock transaction. The acquisition was completed in February 2022, with an estimated acquisition price of $50 billion.[94][95]
+
+In October 2023, AMD acquired an open-source AI software provider, Nod.ai, to bolster its AI software ecosystem.[96][97]
+
+In March 2024 rally in semiconductor stocks pushed AMD valuation above $300B for the first time in history.[98] 
+
+IBM PC and the x86 architecture
+Main articles: Am286, Am386, Am486, and Am5x86
+
+In February 1982, AMD signed a contract with Intel, becoming a licensed second-source manufacturer of 8086 and 8088 processors. IBM wanted to use the Intel 8088 in its IBM PC, but its policy at the time was to require at least two sources for its chips. AMD later produced the Am286 under the same arrangement. In 1984, Intel internally decided to no longer cooperate with AMD in supplying product information to shore up its advantage in the marketplace, and delayed and eventually refused to convey the technical details of the Intel 80386.[99] In 1987, AMD invoked arbitration over the issue, and Intel reacted by canceling the 1982 technological-exchange agreement altogether.[100][101] After three years of testimony, AMD eventually won in arbitration in 1992, but Intel disputed this decision. Another long legal dispute followed, ending in 1994 when the Supreme Court of California sided with the arbitrator and AMD.[102][103]
+
+In 1990, Intel countersued AMD, renegotiating AMD's right to use derivatives of Intel's microcode for its cloned processors.[104] In the face of uncertainty during the legal dispute, AMD was forced to develop clean room designed versions of Intel code for its x386 and x486 processors, the former long after Intel had released its own x386 in 1985.[105] In March 1991, AMD released the Am386, its clone of the Intel 386 processor.[49] By October of the same year it had sold one million units.[49]
+
+In 1993, AMD introduced the first of the Am486 family of processors,[17] which proved popular with a large number of original equipment manufacturers, including Compaq, which signed an exclusive agreement using the Am486.[9][106][107] The Am5x86, another Am486-based processor, was released in November 1995, and continued AMD's success as a fast, cost-effective processor.[108][109]
+
+Finally, in an agreement effective 1996, AMD received the rights to the microcode in Intel's x386 and x486 processor families, but not the rights to the microcode in the following generations of processors.[110][111]
+K5, K6, Athlon, Duron, and Sempron
+Main articles: AMD K5, AMD K6, Athlon, Duron, and Sempron
+
+AMD's first in-house x86 processor was the K5, launched in 1996.[112] The "K" in its name was a reference to Kryptonite, the only substance known to harm comic book character Superman. This itself was a reference to Intel's hegemony over the market, i.e., an anthropomorphization of them as Superman.[113] The number "5" was a reference to the fifth generation of x86 processors; rival Intel had previously introduced its line of fifth-generation x86 processors as Pentium because the U.S. Trademark and Patent Office had ruled that mere numbers could not be trademarked.[114]
+
+In 1996, AMD purchased NexGen, specifically for the rights to their Nx series of x86-compatible processors. AMD gave the NexGen design team their own building, left them alone, and gave them time and money to rework the Nx686. The result was the K6 processor, introduced in 1997. Although it was based on Socket 7, variants such as K6-III/450 were faster than Intel's Pentium II (sixth-generation processor).
+
+The K7 was AMD's seventh-generation x86 processor, making its debut under the brand name Athlon on June 23, 1999. Unlike previous AMD processors, it could not be used on the same motherboards as Intel's, due to licensing issues surrounding Intel's Slot 1 connector, and instead used a Slot A connector, referenced to the Alpha processor bus. The Duron was a lower-cost and limited version of the Athlon (64KB instead of 256KB L2 cache) in a 462-pin socketed PGA (socket A) or soldered directly onto the motherboard. Sempron was released as a lower-cost Athlon XP, replacing Duron in the socket A PGA era. It has since been migrated upward to all new sockets, up to AM3.
+
+On October 9, 2001, the Athlon XP was released. On February 10, 2003, the Athlon XP with 512KB L2 Cache was released.[115]
+Athlon 64, Opteron and Phenom
+Main articles: Athlon 64, Opteron, and Phenom
+
+The K8 was a major revision of the K7 architecture, with the most notable features being the addition of a 64-bit extension to the x86 instruction set (called x86-64, AMD64, or x64), the incorporation of an on-chip memory controller, and the implementation of an extremely high-performance point-to-point interconnect called HyperTransport, as part of the Direct Connect Architecture. The technology was initially launched as the Opteron server-oriented processor on April 22, 2003.[116] Shortly thereafter, it was incorporated into a product for desktop PCs, branded Athlon 64.[117]
+
+On April 21, 2005, AMD released the first dual-core Opteron, an x86-based server CPU.[118] A month later, it released the Athlon 64 X2, the first desktop-based dual-core processor family.[119] In May 2007, AMD abandoned the string "64" in its dual-core desktop product branding, becoming Athlon X2, downplaying the significance of 64-bit computing in its processors. Further updates involved improvements to the microarchitecture, and a shift of the target market from mainstream desktop systems to value dual-core desktop systems. In 2008, AMD started to release dual-core Sempron processors exclusively in China, branded as the Sempron 2000 series, with lower HyperTransport speed and smaller L2 cache. AMD completed its dual-core product portfolio for each market segment.
+
+In September 2007, AMD released the first server Opteron K10 processors,[120] followed in November by the Phenom processor for desktop. K10 processors came in dual-core, triple-core,[121] and quad-core versions, with all cores on a single die. AMD released a new platform codenamed "Spider", which used the new Phenom processor, as well as an R770 GPU and a 790 GX/FX chipset from the AMD 700 chipset series.[122] However, AMD built the Spider at 65nm, which was uncompetitive with Intel's smaller and more power-efficient 45nm.
+
+In January 2009, AMD released a new processor line dubbed Phenom II, a refresh of the original Phenom built using the 45 nm process.[123] AMD's new platform, codenamed "Dragon", used the new Phenom II processor, and an ATI R770 GPU from the R700 GPU family, as well as a 790 GX/FX chipset from the AMD 700 chipset series.[124] The Phenom II came in dual-core, triple-core and quad-core variants, all using the same die, with cores disabled for the triple-core and dual-core versions. The Phenom II resolved issues that the original Phenom had, including a low clock speed, a small L3 cache, and a Cool'n'Quiet bug that decreased performance. The Phenom II cost less but was not performance-competitive with Intel's mid-to-high-range Core 2 Quads. The Phenom II also enhanced its predecessor's memory controller, allowing it to use DDR3 in a new native socket AM3, while maintaining backward compatibility with AM2+, the socket used for the Phenom, and allowing the use of the DDR2 memory that was used with the platform.
+
+In April 2010, AMD released a new Phenom II Hexa-core (6-core) processor codenamed "Thuban".[125] This was a totally new die based on the hexa-core "Istanbul" Opteron processor. It included AMD's "turbo core" technology, which allows the processor to automatically switch from 6 cores to 3 faster cores when more pure speed is needed.
+
+The Magny Cours and Lisbon server parts were released in 2010.[126] The Magny Cours part came in 8 to 12 cores and the Lisbon part in 4 and 6 core parts. Magny Cours is focused on performance while the Lisbon part is focused on high performance per watt. Magny Cours is an MCM (multi-chip module) with two hexa-core "Istanbul" Opteron parts. This will use a new socket G34 for dual and quad-socket processors and thus will be marketed as Opteron 61xx series processors. Lisbon uses socket C32 certified for dual-socket use or single socket use only and thus will be marketed as Opteron 41xx processors. Both will be built on a 45 nm SOI process.
+Fusion becomes the AMD APU
+Main articles: AMD APU and AMD mobile platform
+
+Following AMD's 2006 acquisition of Canadian graphics company ATI Technologies, an initiative codenamed Fusion was announced to integrate a CPU and GPU together on some of AMD's microprocessors, including a built in PCI Express link to accommodate separate PCI Express peripherals, eliminating the northbridge chip from the motherboard. The initiative intended to move some of the processing originally done on the CPU (e.g. floating-point unit operations) to the GPU, which is better optimized for some calculations. The Fusion was later renamed the AMD APU (Accelerated Processing Unit).[127]
+
+Llano was AMD's first APU built for laptops. Llano was the second APU released,[128] targeted at the mainstream market.[127] It incorporated a CPU and GPU on the same die, as well as northbridge functions, and used "Socket FM1" with DDR3 memory. The CPU part of the processor was based on the Phenom II "Deneb" processor. AMD suffered an unexpected decrease in revenue based on production problems for the Llano.[129] More AMD APUs for laptops running Windows 7 and Windows 8 OS are being used commonly. These include AMD's price-point APUs, the E1 and E2, and their mainstream competitors with Intel's Core i-series: The Vision A- series, the A standing for accelerated. These range from the lower-performance A4 chipset to the A6, A8, and A10. These all incorporate next-generation Radeon graphics cards, with the A4 utilizing the base Radeon HD chip and the rest using a Radeon R4 graphics card, with the exception of the highest-model A10 (A10-7300) which uses an R6 graphics card.
+New microarchitectures
+High-power, high-performance Bulldozer cores
+Main articles: Bulldozer microarchitecture, Piledriver microarchitecture, Steamroller microarchitecture, and Excavator microarchitecture
+
+Bulldozer was AMD's microarchitecture codename for server and desktop AMD FX processors, first released on October 12, 2011. This family 15h microarchitecture is the successor to the family 10h (K10) microarchitecture design. Bulldozer was a clean-sheet design, not a development of earlier processors.[130] The core was specifically aimed at 10–125 W TDP computing products. AMD claimed dramatic performance-per-watt efficiency improvements in high-performance computing (HPC) applications with Bulldozer cores. While hopes were high that Bulldozer would bring AMD to be performance-competitive with Intel once more, most benchmarks were disappointing. In some cases the new Bulldozer products were slower than the K10 models they were built to replace.[131][132][133]
+
+The Piledriver microarchitecture was the 2012 successor to Bulldozer, increasing clock speeds and performance relative to its predecessor.[134] Piledriver would be released in AMD FX, APU, and Opteron product lines.[135][136][137][138] Piledriver was subsequently followed by the Steamroller microarchitecture in 2013. Used exclusively in AMD's APUs, Steamroller focused on greater parallelism.[139][140]
+
+In 2015, the Excavator microarchitecture replaced Piledriver.[141] Expected to be the last microarchitecture of the Bulldozer series,[142][143] Excavator focused on improved power efficiency.[144]
+Low-power Cat cores
+Main articles: Bobcat microarchitecture, Jaguar microarchitecture, and Puma microarchitecture
+
+The Bobcat microarchitecture was revealed during a speech from AMD executive vice-president Henri Richard in Computex 2007 and was put into production during the first quarter of 2011.[128] Based on the difficulty competing in the x86 market with a single core optimized for the 10–100 W range, AMD had developed a simpler core with a target range of 1–10 watts.[145] In addition, it was believed that the core could migrate into the hand-held space if the power consumption can be reduced to less than 1 W.[146]
+
+Jaguar is a microarchitecture codename for Bobcat's successor, released in 2013, that is used in various APUs from AMD aimed at the low-power/low-cost market.[147] Jaguar and its derivates would go on to be used in the custom APUs of the PlayStation 4,[148][149] Xbox One,[150][151] PlayStation 4 Pro,[152][153][154] Xbox One S,[155] and Xbox One X.[156][157] Jaguar would be later followed by the Puma microarchitecture in 2014.[158]
+ARM architecture-based designs
+
+In 2012, AMD announced it was working on ARM products, both as a semi-custom product and server product.[159][160][161] The initial server product was announced as the Opteron A1100 in 2014, an 8-core Cortex-A57-based ARMv8-A SoC,[162][163] and was expected to be followed by an APU incorporating a Graphics Core Next GPU.[164] However, the Opteron A1100 was not released until 2016, with the delay attributed to adding software support.[165] The A1100 was also criticized for not having support from major vendors upon its release.[165][166][167]
+
+In 2014, AMD also announced the K12 custom core for release in 2016.[168] While being ARMv8-A instruction set architecture compliant, the K12 was expected to be entirely custom-designed, targeting the server, embedded, and semi-custom markets. While ARM architecture development continued, products based on K12 were subsequently delayed with no release planned. Development of AMD's x86-based Zen microarchitecture was preferred.[169][170]
+Zen-based CPUs and APUs
+Main article: Zen microarchitecture
+
+Zen is an architecture for x86-64 based Ryzen series of CPUs and APUs, introduced in 2017 by AMD and built from the ground up by a team led by Jim Keller, beginning with his arrival in 2012, and taping out before his departure in September 2015.
+
+One of AMD's primary goals with Zen was an IPC increase of at least 40%, however in February 2017 AMD announced that they had actually achieved a 52% increase.[171][failed verification] Processors made on the Zen architecture are built on the 14 nm FinFET node and have a renewed focus on single-core performance and HSA compatibility.[172] Previous processors from AMD were either built in the 32 nm process ("Bulldozer" and "Piledriver" CPUs) or the 28 nm process ("Steamroller" and "Excavator" APUs). Because of this, Zen is much more energy efficient.
+
+The Zen architecture is the first to encompass CPUs and APUs from AMD built for a single socket (Socket AM4). Also new for this architecture is the implementation of simultaneous multithreading (SMT) technology, something Intel has had for years on some of their processors with their proprietary hyper-threading implementation of SMT. This is a departure from the "Clustered MultiThreading" design introduced with the Bulldozer architecture. Zen also has support for DDR4 memory.
+
+AMD released the Zen-based high-end Ryzen 7 "Summit Ridge" series CPUs on March 2, 2017,[173] mid-range Ryzen 5 series CPUs on April 11, 2017, and entry level Ryzen 3 series CPUs on July 27, 2017.[174] AMD later released the Epyc line of Zen derived server processors for 1P and 2P systems.[175] In October 2017, AMD released Zen-based APUs as Ryzen Mobile, incorporating Vega graphics cores.[176] In January 2018 AMD has announced their new lineup plans, with Ryzen 2.[177] AMD launched CPUs with the 12nm Zen+[178] microarchitecture in April 2018, following up with the 7nm Zen 2 microarchitecture in June 2019, including an update to the Epyc line with new processors using the Zen 2 microarchitecture in August 2019, and Zen 3 slated for release in Q3 2020.
+
+As of 2019, AMD's Ryzen processors were reported to outsell Intel's consumer desktop processors.[179] At CES 2020 AMD announced their Ryzen Mobile 4000, as the first 7 nm x86 mobile processor,[vague] the first 7 nm 8-core (also 16-thread) high-performance mobile processor, and the first 8-core (also 16-thread) processor for ultrathin laptops.[180] This generation is still based on the Zen 2 architecture. In October 2020, AMD announced new processors based on the Zen 3 architecture.[181] On PassMark's Single thread performance test the Ryzen 5 5600x bested all other CPUs besides the Ryzen 9 5950X.[182]
+
+In April 2020, AMD launched three new SKUs which target commercial HPC workloads & hyperconverged infrastructure applications. The launch was based on Epyc’s 7 nm second-generation Rome platform and supported by Dell EMC, Hewlett Packard Enterprise, Lenovo, Supermicro, and Nutanix. IBM Cloud was its first public cloud partner.[183] In August 2022, AMD announced their initial lineup of CPUs based on the new Zen 4 architecture.[184]
+
+The Steam Deck,[185][186] PlayStation 5, Xbox Series X and Series S all use chips based on the Zen 2 microarchitecture, with proprietary tweaks and different configurations in each system's implementation than AMD sells in its own commercially available APUs.[187][188] 
+
+ATI prior to AMD acquisition
+Main article: ATI Technologies
+
+Lee Ka Lau,[189] Francis Lau, Benny Lau, and Kwok Yuen Ho[190] founded ATI in 1985 as Array Technology Inc.[191] Working primarily in the OEM field, ATI produced integrated graphics cards for PC manufacturers such as IBM and Commodore. By 1987, ATI had grown into an independent graphics-card retailer, introducing EGA Wonder and VGA Wonder card product lines that year.[192] In the early nineties, they released products able to process graphics without the CPU: in May 1991, the Mach8, in 1992 the Mach32, which offered improved memory bandwidth and GUI acceleration. ATI Technologies Inc. went public in 1993, with shares listed on NASDAQ and on the Toronto Stock Exchange.
+ATI's former Silicon Valley office at 4555 Great America Pkwy, Santa Clara, CA
+ATI "Graphics Solution Rev 3" from 1985/1986, supporting Hercules graphics. As the PCB reveals, the layout dates from 1985, whereas the marking on the central chip CW16800-A says "8639"—meaning that chip was manufactured in week 39, 1986. Notice UM6845E CRT controller. This card uses the ISA 8-bit interface.
+ATI VGA Wonder with 256 KB RAM
+
+In 1994, the Mach64 accelerator debuted, powering the Graphics Xpression and Graphics Pro Turbo, offering hardware support for YUV-to-RGB colour space conversion in addition to hardware zoom; early techniques of hardware-based video acceleration.
+
+ATI introduced its first combination of 2D and 3D accelerator under the name 3D Rage. This chip was based on the Mach 64, but it featured elemental 3D acceleration. The ATI Rage line powered almost the entire range of ATI graphics products. In particular, the Rage Pro was one of the first viable 2D-plus-3D alternatives to 3dfx's 3D-only Voodoo chipset. 3D acceleration in the Rage line advanced from the basic functionality within the initial 3D Rage to a more advanced DirectX 6.0 accelerator in 1999 Rage 128.
+
+The All-in-Wonder product line, introduced in 1996, was the first combination of integrated graphics chip with TV tuner card and the first chip that enabled display of computer graphics on a TV set.[193] The cards featured 3D acceleration powered by ATI's 3D Rage II, 64-bit 2D performance, TV-quality video acceleration, analogue video capture, TV tuner functionality, flicker-free TV-out and stereo TV audio reception.
+
+ATI entered the mobile computing sector by introducing 3D-graphics acceleration to laptops in 1996. The Mobility product line had to meet requirements different from those of desktop PCs, such as minimized power usage, reduced heat output, TMDS output capabilities for laptop screens, and maximized integration. In 1997, ATI acquired Tseng Labs's graphics assets, which included 40 engineers.
+
+The Radeon line of graphics products was unveiled in 2000. The initial Radeon graphics processing unit offered an all-new design with DirectX 7.0 3D acceleration, video acceleration, and 2D acceleration. Technology developed for a specific Radeon generation could be built in varying levels of features and performance in order to provide products suited for the entire market range, from high-end to budget to mobile versions.
+
+In 2000, ATI acquired ArtX, which engineered the Flipper graphics chip used in the GameCube video game console. They also created a modified version of the chip (codenamed Hollywood) for the successor of the GameCube, the Wii. Microsoft contracted ATI to design the graphics core (codenamed Xenos) for the Xbox 360. Later in 2005, ATI acquired Terayon's cable modem silicon intellectual property, strengthening their lead in the consumer digital television market.[194] K. Y. Ho remained as Chairman of the Board until he retired in November 2005. Dave Orton replaced him as the President and CEO of the organization.
+
+On July 24, 2006, a joint announcement revealed that AMD would acquire ATI in a deal valued at $5.6 billion.[195] The acquisition consideration closed on October 25, 2006,[196] and included over $2 billion financed from a loan and 56 million shares of AMD stock.[197] ATI's operations became part of the AMD Graphics Product Group (GPG),[198] and ATI's CEO Dave Orton became the Executive Vice President of Visual and Media Businesses at AMD until his resignation in 2007.[199] The top-level management was reorganized with the Senior Vice President and General Manager, and the Senior Vice President and General Manager of Consumer Electronics Group, both of whom would report to the CEO of AMD.[200] On 30 August 2010, John Trikola announced that AMD would retire the ATI brand for its graphics chipsets in favour of the AMD name.[201]
+Radeon within AMD
+Main article: Radeon
+
+In 2008, the ATI division of AMD released the TeraScale microarchitecture implementing a unified shader model. This design replaced the previous fixed-function hardware of previous graphics cards with multipurpose, programmable shaders. Initially released as part of the GPU for the Xbox 360, this technology would go on to be used in Radeon branded HD 2000 parts. Three generations of TeraScale would be designed and used in parts from 2008 to 2014.
+Combined GPU and CPU divisions
+
+In a 2009 restructuring, AMD merged the CPU and GPU divisions to support the company's APUs, which fused both graphics and general purpose processing.[202][203] In 2011, AMD released the successor to TeraScale, Graphics Core Next (GCN).[204] This new microarchitecture emphasized GPGPU compute capability in addition to graphics processing, with a particular aim of supporting heterogeneous computing on AMD's APUs. GCN's reduced instruction set ISA allowed for significantly increased compute capability over TeraScale's very long instruction word ISA. Since GCN's introduction with the HD 7970, five generations of the GCN architecture have been produced from 2008 through at least 2017.[205]
+Radeon Technologies Group
+
+In September 2015, AMD separated the graphics technology division of the company into an independent internal unit called the Radeon Technologies Group (RTG) headed by Raja Koduri.[206] This gave the graphics division of AMD autonomy in product design and marketing.[207][208] The RTG then went on to create and release the Polaris and Vega microarchitectures released in 2016 and 2017, respectively.[209][210] In particular the Vega, or fifth-generation GCN, microarchitecture includes a number of major revisions to improve performance and compute capabilities.[211][212]
+
+In November 2017, Raja Koduri left RTG[213] and CEO and President Lisa Su took his position. In January 2018, it was reported that two industry veterans joined RTG, namely Mike Rayfield as senior vice president and general manager of RTG, and David Wang as senior vice president of engineering for RTG.[214] In January 2020, AMD announced that its second-generation RDNA graphics architecture was in development, with the aim of competing with the Nvidia RTX graphics products for performance leadership. In October 2020, AMD announced their new RX 6000 series[215] series GPUs, their first high-end product based on RDNA2 and capable of handling ray-tracing natively, aiming to challenge Nvidia's RTX 3000 GPUs.
+Semi-custom and game console products
+
+In 2012, AMD's then CEO Rory Read began a program to offer semi-custom designs.[216][217] Rather than AMD simply designing and offering a single product, potential customers could work with AMD to design a custom chip based on AMD's intellectual property. Customers pay a non-recurring engineering fee for design and development, and a purchase price for the resulting semi-custom products. In particular, AMD noted their unique position of offering both x86 and graphics intellectual property. These semi-custom designs would have design wins as the APUs in the PlayStation 4 and Xbox One and the subsequent PlayStation 4 Pro, Xbox One S, Xbox One X, Xbox Series X/S, and PlayStation 5.[218][219][220][154][157][221] Financially, these semi-custom products would represent a majority of the company's revenue in 2016.[222][223] In November 2017, AMD and Intel announced that Intel would market a product combining in a single package an Intel Core CPU, a semi-custom AMD Radeon GPU, and HBM2 memory.[224]
+Other hardware
+AMD motherboard chipsets
+See also: Comparison of AMD chipsets
+
+Before the launch of Athlon 64 processors in 2003, AMD designed chipsets for their processors spanning the K6 and K7 processor generations. The chipsets include the AMD-640, AMD-751, and the AMD-761 chipsets. The situation changed in 2003 with the release of Athlon 64 processors, and AMD chose not to further design its own chipsets for its desktop processors while opening the desktop platform to allow other firms to design chipsets. This was the "Open Platform Management Architecture" with ATI, VIA and SiS developing their own chipset for Athlon 64 processors and later Athlon 64 X2 and Athlon 64 FX processors, including the Quad FX platform chipset from Nvidia.
+
+The initiative went further with the release of Opteron server processors as AMD stopped the design of server chipsets in 2004 after releasing the AMD-8111 chipset, and again opened the server platform for firms to develop chipsets for Opteron processors. As of today,[when?] Nvidia and Broadcom are the sole designing firms of server chipsets for Opteron processors.
+
+As the company completed the acquisition of ATI Technologies in 2006, the firm gained the ATI design team for chipsets which previously designed the Radeon Xpress 200 and the Radeon Xpress 3200 chipsets. AMD then renamed the chipsets for AMD processors under AMD branding (for instance, the CrossFire Xpress 3200 chipset was renamed as AMD 580X CrossFire chipset). In February 2007, AMD announced the first AMD-branded chipset since 2004 with the release of the AMD 690G chipset (previously under the development codename RS690), targeted at mainstream IGP computing. It was the industry's first to implement a HDMI 1.2 port on motherboards, shipping for more than a million units. While ATI had aimed at releasing an Intel IGP chipset, the plan was scrapped and the inventories of Radeon Xpress 1250 (codenamed RS600, sold under ATI brand) was sold to two OEMs, Abit and ASRock. Although AMD stated the firm would still produce Intel chipsets, Intel had not granted the license of 1333 MHz FSB to ATI.
+
+On November 15, 2007, AMD announced a new chipset series portfolio, the AMD 7-Series chipsets, covering from the enthusiast multi-graphics segment to the value IGP segment, to replace the AMD 480/570/580 chipsets and AMD 690 series chipsets, marking AMD's first enthusiast multi-graphics chipset. Discrete graphics chipsets were launched on November 15, 2007, as part of the codenamed Spider desktop platform, and IGP chipsets were launched at a later time in spring 2008 as part of the codenamed Cartwheel platform.
+
+AMD returned to the server chipsets market with the AMD 800S series server chipsets. It includes support for up to six SATA 6.0 Gbit/s ports, the C6 power state, which is featured in Fusion processors and AHCI 1.2 with SATA FIS-based switching support. This is a chipset family supporting Phenom processors and Quad FX enthusiast platform (890FX), IGP (890GX).
+
+With the advent of AMD's APUs in 2011, traditional northbridge features such as the connection to graphics and the PCI Express controller were incorporated into the APU die. Accordingly, APUs were connected to a single chip chipset, renamed the Fusion Controller Hub (FCH), which primarily provided southbridge functionality.[225]
+
+AMD released new chipsets in 2017 to support the release of their new Ryzen products. As the Zen microarchitecture already includes much of the northbridge connectivity, the AM4-based chipsets primarily varied in the number of additional PCI Express lanes, USB connections, and SATA connections available.[226] These AM4 chipsets were designed in conjunction with ASMedia.[227]
+Embedded products
+Embedded CPUs
+Main articles: AMD Élan, Alchemy, and Geode
+An AMD Élan SC450 in Nokia 9000 Communicator
+
+In the early 1990s, AMD began marketing a series of embedded system-on-a-chips (SoCs) called AMD Élan, starting with the SC300 and SC310. Both combines a 32-Bit, Am386SX, low-voltage 25 MHz or 33 MHz CPU with memory controller, PC/AT peripheral controllers, real-time clock, PLL clock generators and ISA bus interface. The SC300 integrates in addition two PC card slots and a CGA-compatible LCD controller. They were followed in 1996 by the SC4xx types. Now supporting VESA Local Bus and using the Am486 with up to 100 MHz clock speed. A SC450 with 33 MHze.g. was used in the Nokia 9000 Communicator. In 1999 the SC520 was announced. Using an Am586 with 100 MHz or 133 MHz and supporting SDRAM and PCI it was the latest member of the series.[228][229]
+
+In February 2002, AMD acquired Alchemy Semiconductor for its Alchemy line of MIPS processors for the hand-held and portable media player markets.[230] On June 13, 2006, AMD officially announced that the line was to be transferred to Raza Microelectronics, Inc., a designer of MIPS processors for embedded applications.[231]
+
+In August 2003, AMD also purchased the Geode business which was originally the Cyrix MediaGX from National Semiconductor to augment its existing line of embedded x86 processor products.[232] During the second quarter of 2004, it launched new low-power Geode NX processors based on the K7 Thoroughbred architecture with speeds of fanless processors 667 MHz and 1 GHz, and 1.4 GHz processor with fan, of TDP 25 W. This technology is used in a variety of embedded systems (Casino slot machines and customer kiosks for instance), several UMPC designs in Asia markets, as well as the OLPC XO-1 computer, an inexpensive laptop computer intended to be distributed to children in developing countries around the world.[233] The Geode LX processor was announced in 2005 and is said will continue to be available through 2015.[needs update]
+
+AMD has also introduced 64-bit processors into its embedded product line starting with the AMD Opteron processor. Leveraging the high throughput enabled through HyperTransport and the Direct Connect Architecture these server-class processors have been targeted at high-end telecom and storage applications. In 2007, AMD added the AMD Athlon, AMD Turion, and Mobile AMD Sempron processors to its embedded product line. Leveraging the same 64-bit instruction set and Direct Connect Architecture as the AMD Opteron but at lower power levels, these processors were well suited to a variety of traditional embedded applications. Throughout 2007 and into 2008, AMD has continued to add both single-core Mobile AMD Sempron and AMD Athlon processors and dual-core AMD Athlon X2 and AMD Turion processors to its embedded product line and now offers embedded 64-bit solutions starting with 8 W TDP Mobile AMD Sempron and AMD Athlon processors for fan-less designs up to multi-processor systems leveraging multi-core AMD Opteron processors all supporting longer than standard availability.[234]
+
+The ATI acquisition in 2006 included the Imageon and Xilleon product lines. In late 2008, the entire handheld division was sold off to Qualcomm, who have since produced the Adreno series.[235] Also in 2008, the Xilleon division was sold to Broadcom.[236][237]
+
+In April 2007, AMD announced the release of the M690T integrated graphics chipset for embedded designs. This enabled AMD to offer complete processor and chipset solutions targeted at embedded applications requiring high-performance 3D and video such as emerging digital signage, kiosk, and Point of Sale applications. The M690T was followed by the M690E specifically for embedded applications which removed the TV output, which required Macrovision licensing for OEMs, and enabled native support for dual TMDS outputs, enabling dual independent DVI interfaces.[citation needed][238]
+
+In January 2011, AMD announced the AMD Embedded G-Series Accelerated Processing Unit.[239][240] This was the first APU for embedded applications. These were followed by updates in 2013 and 2016.[241][242]
+
+In May 2012, AMD Announced the AMD Embedded R-Series Accelerated Processing Unit.[243] This family of products incorporates the Bulldozer CPU architecture, and Discrete-class Radeon HD 7000G Series graphics. This was followed by a system-on-a-chip (SoC) version in 2015 which offered a faster CPU and faster graphics, with support for DDR4 SDRAM memory.[244][245]
+Embedded graphics
+
+AMD builds graphic processors for use in embedded systems. They can be found in anything from casinos to healthcare, with a large portion of products being used in industrial machines.[246] These products include a complete graphics processing device in a compact multi-chip module including RAM and the GPU.[247] ATI began offering embedded GPUs with the E2400 in 2008. Since that time AMD has released regular updates to their embedded GPU lineup in 2009, 2011, 2015, and 2016; reflecting improvements in their GPU technology.[247][248][249][250]
+Current product lines
+CPU and APU products
+
+AMD's portfolio of CPUs and APUs as of 2020
+
+    Athlon – brand of entry level CPUs (Excavator) and APUs (Ryzen)
+    A-series – Excavator-class consumer desktop and laptop APUs
+    G-series – Excavator- and Jaguar-class low-power embedded APUs
+    Ryzen – brand of consumer CPUs and APUs
+    Ryzen Threadripper – brand of prosumer/professional CPUs
+    R-series – Excavator class high-performance embedded APUs
+    Epyc – brand of server CPUs
+    Opteron – brand of microserver APUs[251]
+
+Graphics products
+
+AMD's portfolio of dedicated graphics processors as of 2017
+
+    Radeon – brand for consumer line of graphics cards; the brand name originated with ATI.
+        Mobility Radeon offers power-optimized versions of Radeon graphics chips for use in laptops.
+    Radeon Pro – Workstation graphics card brand. Successor to the FirePro brand.
+    Radeon Instinct – brand of server and workstation targeted machine learning and GPGPU products
+
+Radeon-branded products
+RAM
+AMD Radeon memory
+
+In 2011, AMD began selling Radeon branded DDR3 SDRAM to support the higher bandwidth needs of AMD's APUs.[252] While the RAM is sold by AMD, it was manufactured by Patriot Memory and VisionTek. This was later followed by higher speeds of gaming oriented DDR3 memory in 2013.[253] Radeon branded DDR4 SDRAM memory was released in 2015, despite no AMD CPUs or APUs supporting DDR4 at the time.[254] AMD noted in 2017 that these products are "mostly distributed in Eastern Europe" and that it continues to be active in the business.[255]
+Solid-state drives
+
+AMD announced in 2014 it would sell Radeon branded solid-state drives manufactured by OCZ with capacities up to 480 GB and using the SATA interface.[256]
+Technologies
+CPU hardware
+
+As of 2017 technologies found in AMD CPU/APU and other products include:
+
+    HyperTransport – a high-bandwidth, low-latency system bus used in AMD's CPU and APU products
+    Infinity Fabric – a derivative of HyperTransport used as the communication bus in AMD's Zen microarchitecture
+
+Graphics hardware
+
+As of 2017 technologies found in AMD GPU products include:
+
+    AMD Eyefinity – facilitates multi-monitor setup of up to 6 monitors per graphics card
+    AMD FreeSync – display synchronization based on the VESA Adaptive Sync standard
+    AMD TrueAudio – acceleration of audio calculations
+    AMD XConnect – allows the use of External GPU enclosures through Thunderbolt 3
+    AMD CrossFire – multi-GPU technology allowing the simultaneous use of multiple GPUs
+    Unified Video Decoder (UVD) – acceleration of video decompression (decoding)
+    Video Coding Engine (VCE) – acceleration of video compression (encoding)
+
+Software
+
+AMD has made considerable efforts towards opening its software tools above the firmware level in the past decade.[257][258][259]
+
+For the following mentions, software not expressely stated free can be assumed to be proprietary.
+Distribution
+
+AMD Radeon Software is the default channel for official software distribution from AMD. It includes both free and proprietary software components, and supports both Microsoft Windows and Linux.
+Software by type
+CPU
+
+    AOCC is AMD's optimizing proprietary C/C++ compiler based on LLVM and available for Linux.[260]
+    AMDuProf is AMD's CPU performance and Power profiling tool suite, available for Linux and Windows.
+    AMD has also taken an active part in developing coreboot, an open-source project aimed at replacing the proprietary BIOS firmware. This cooperation ceased in 2013, but AMD has indicated recently[when?] that it is considering releasing source code so that Ryzen can be compatible with coreboot in the future.[261]
+
+GPU
+See also: AMD Radeon Software
+
+Most notable public AMD software is on the GPU side.
+
+AMD has opened both its graphic and compute stacks:
+
+    GPUOpen is AMD's graphics stack, which includes for example FidelityFX Super Resolution.
+    ROCm (Radeon Open Compute platform) is AMD's compute stack for machine learning and high-performance computing, based on the LLVM compiler technologies. Under the ROCm project, AMDgpu is AMD's open-source device driver supporting the GCN and following architectures, available for Linux. This latter driver component is used both by the graphics and compute stacks.
+
+Misc
+
+    AMD conducts open research on heterogeneous computing.[262]
+    Other AMD software includes the AMD Core Math Library, and open-source software including the AMD Performance Library.
+    AMD contributes to open-source projects, including working with Sun Microsystems to enhance OpenSolaris and Sun xVM on the AMD platform.[263] AMD also maintains its own Open64 compiler distribution and contributes its changes back to the community.[264]
+    In 2008, AMD released the low-level programming specifications for its GPUs, and works with the X.Org Foundation to develop drivers for AMD graphics cards.[265][266]
+    Extensions for software parallelism (xSP), aimed at speeding up programs to enable multi-threaded and multi-core processing, announced in Technology Analyst Day 2007. One of the initiatives being discussed since August 2007 is the Light Weight Profiling (LWP), providing internal hardware monitor with runtimes, to observe information about executing process and help the re-design of software to be optimized with multi-core and even multi-threaded programs. Another one is the extension of Streaming SIMD Extension (SSE) instruction set, the SSE5.
+    Codenamed SIMFIRE – interoperability testing tool for the Desktop and mobile Architecture for System Hardware (DASH) open architecture.
+
+Production and fabrication
+Main article: GlobalFoundries
+
+Previously, AMD produced its chips at company-owned semiconductor foundries. AMD pursued a strategy of collaboration with other semiconductor manufacturers IBM and Motorola to co-develop production technologies.[267][268] AMD's founder Jerry Sanders termed this the "Virtual Gorilla" strategy to compete with Intel's significantly greater investments in fabrication.[269]
+
+In 2008, AMD spun off its chip foundries into an independent company named GlobalFoundries.[270] This breakup of the company was attributed to the increasing costs of each process node. The Emirate of Abu Dhabi purchased the newly created company through its subsidiary Advanced Technology Investment Company (ATIC), purchasing the final stake from AMD in 2009.[271]
+
+With the spin-off of its foundries, AMD became a fabless semiconductor manufacturer, designing products to be produced at for-hire foundries. Part of the GlobalFoundries spin-off included an agreement with AMD to produce some number of products at GlobalFoundries.[272] Both prior to the spin-off and after AMD has pursued production with other foundries including TSMC and Samsung.[273][274] It has been argued that this would reduce risk for AMD by decreasing dependence on any one foundry which has caused issues in the past.[274][275]
+
+In 2018, AMD started shifting the production of their CPUs and GPUs to TSMC, following GlobalFoundries' announcement that they were halting development of their 7 nm process.[276] AMD revised their wafer purchase requirement with GlobalFoundries in 2019, allowing AMD to freely choose foundries for 7 nm nodes and below, while maintaining purchase agreements for 12 nm and above through 2021.[277]
+Corporate affairs
+Partnerships
+
+AMD uses strategic industry partnerships to further its business interests as well as to rival Intel's dominance and resources:[267][268][269]
+
+    A partnership between AMD and Alpha Processor Inc. developed HyperTransport, a point-to-point interconnect standard which was turned over to an industry standards body for finalization.[278] It is now used in modern motherboards that are compatible with AMD processors.
+    AMD also formed a strategic partnership with IBM, under which AMD gained silicon on insulator (SOI) manufacturing technology, and detailed advice on 90 nm implementation. AMD announced that the partnership would extend to 2011 for 32 nm and 22 nm fabrication-related technologies.[279]
+    To facilitate processor distribution and sales, AMD is loosely partnered with end-user companies, such as HP, Dell, Asus, Acer, and Microsoft.[280]
+    In 1993, AMD established a 50–50 partnership with Fujitsu called FASL, and merged into a new company called FASL LLC in 2003. The joint venture went public under the name Spansion and ticker symbol SPSN in December 2005, with AMD shares dropping 37%. AMD no longer directly participates in the Flash memory devices market now as AMD entered into a non-competition agreement on December 21, 2005, with Fujitsu and Spansion, pursuant to which it agreed not to directly or indirectly engage in a business that manufactures or supplies standalone semiconductor devices (including single-chip, multiple-chip or system devices) containing only Flash memory.[281]
+    On May 18, 2006, Dell announced that it would roll out new servers based on AMD's Opteron chips by year's end, thus ending an exclusive relationship with Intel.[282] In September 2006, Dell began offering AMD Athlon X2 chips in their desktop lineup.
+    In June 2011, HP announced new business and consumer notebooks equipped with the latest versions of AMD APUs – accelerated processing units. AMD will power HP's Intel-based business notebooks as well.[283]
+    In the spring of 2013, AMD announced that it would be powering all three major next-generation consoles.[284] The Xbox One and Sony PlayStation 4 are both powered by a custom-built AMD APU, and the Nintendo Wii U is powered by an AMD GPU.[285] According to AMD, having their processors in all three of these consoles will greatly assist developers with cross-platform development to competing consoles and PCs as well as increased support for their products across the board.[286]
+    AMD has entered into an agreement with Hindustan Semiconductor Manufacturing Corporation (HSMC) for the production of AMD products in India.[287]
+    AMD is a founding member of the HSA Foundation which aims to ease the use of a Heterogeneous System Architecture. A Heterogeneous System Architecture is intended to use both central processing units and graphics processors to complete computational tasks.[288]
+    AMD announced in 2016 that it was creating a joint venture to produce x86 server chips for the Chinese market.[289]
+    On May 7, 2019, it was reported that the U.S. Department of Energy, Oak Ridge National Laboratory, and Cray Inc., are working in collaboration with AMD to develop the Frontier exascale supercomputer. Featuring the AMD Epyc CPUs and Radeon GPUs, the supercomputer is set to produce more than 1.5 exaflops (peak double-precision) in computing performance. It is expected to debut sometime in 2021.[290]
+    On March 5, 2020, it was announced that the U.S. Department of Energy, Lawrence Livermore National Laboratory, and HPE are working in collaboration with AMD to develop the El Capitan exascale supercomputer. Featuring the AMD Epyc CPUs and Radeon GPUs, the supercomputer is set to produce more than 2 exaflops (peak double-precision) in computing performance. It is expected to debut in 2023.[291]
+    In the summer of 2020, it was reported that AMD would be powering the next-generation console offerings from Microsoft and Sony.[292]
+    On November 8, 2021, AMD announced a partnership with Meta to make the chips used in the Metaverse.[293]
+    In January 2022, AMD partnered with Samsung to develop a mobile processor to be used in future products. The processor was named Exynos 2022 and works with the AMD RDNA 2 architecture.[294]
+
+Litigation with Intel
+See also: Intel Corp. v. Advanced Micro Devices, Inc. and Advanced Micro Devices, Inc. v. Intel Corp.
+AMD processor with Intel logo
+
+AMD has a long history of litigation with former (and current) partner and x86 creator Intel.[295][296][297]
+
+    In 1986, Intel broke an agreement it had with AMD to allow them to produce Intel's microchips for IBM; AMD filed for arbitration in 1987 and the arbitrator decided in AMD's favor in 1992. Intel disputed this, and the case ended up in the Supreme Court of California. In 1994, that court upheld the arbitrator's decision and awarded damages for breach of contract.
+    In 1990, Intel brought a copyright infringement action alleging illegal use of its 287 microcode. The case ended in 1994 with a jury finding for AMD and its right to use Intel's microcode in its microprocessors through the 486 generation.
+    In 1997, Intel filed suit against AMD and Cyrix Corp. for misuse of the term MMX. AMD and Intel settled, with AMD acknowledging MMX as a trademark owned by Intel, and with Intel granting AMD rights to market the AMD K6 MMX processor.
+    In 2005, following an investigation, the Japan Federal Trade Commission found Intel guilty of a number of violations. On June 27, 2005, AMD won an antitrust suit against Intel in Japan, and on the same day, AMD filed a broad antitrust complaint against Intel in the U.S. Federal District Court in Delaware. The complaint alleges systematic use of secret rebates, special discounts, threats, and other means used by Intel to lock AMD processors out of the global market. Since the start of this action, the court has issued subpoenas to major computer manufacturers including Acer, Dell, Lenovo, HP and Toshiba.
+    In November 2009, Intel agreed to pay AMD $1.25 billion and renew a five-year patent cross-licensing agreement as part of a deal to settle all outstanding legal disputes between them.[298]
+
+Guinness World Record achievement
+
+    On August 31, 2011, in Austin, Texas, AMD achieved a Guinness World Record for the "Highest frequency of a computer processor": 8.429 GHz.[299] The company ran an 8-core FX-8150 processor with only one active module (two cores), and cooled with liquid helium.[300] The previous record was 8.308 GHz, with an Intel Celeron 352 (one core).
+    On November 1, 2011, geek.com reported that Andre Yang, an overclocker from Taiwan, used an FX-8150 to set another record: 8.461 GHz.[301]
+    On November 19, 2012, Andre Yang used an FX-8350 to set another record: 8.794 GHz.[302]
+

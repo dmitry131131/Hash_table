@@ -48,7 +48,8 @@ HashTableErrorCode add_to_hash_table(HashTable* hash_table, char* str, size_t (*
         if (list_ctor(&(hash_table->table[position]), DEFAULT_LIST_SIZE)) return LIST_CTOR_ERROR;
     }
 
-    if (list_insert_in_tail(&(hash_table->table[position]), str)) return INSERT_IN_LIST_ERROR;
+    if (!find_in_hash_table(hash_table, str, hash_function))
+        if (list_insert_in_tail(&(hash_table->table[position]), str)) return INSERT_IN_LIST_ERROR;
 
     return NO_HASH_TABLE_ERROR;
 }

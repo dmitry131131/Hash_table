@@ -26,6 +26,8 @@ void print_hash_table_error_message(FILE* stream, HashTableErrorCode error)
     CHECK_CODE(LIST_DTOR_ERROR,         "Can't destroy one element in hash table!\n");
     CHECK_CODE(LIST_CTOR_ERROR,         "Can't create one element in hash table!\n");
     CHECK_CODE(INSERT_IN_LIST_ERROR,    "Can't insert element in list!\n");
+    CHECK_CODE(CREATE_FILE_ERROR,       "Create output file error!\n");
+    CHECK_CODE(WRITE_TO_FILE_ERROR,     "Write buffer to file error!\n");
     
     
     default:
