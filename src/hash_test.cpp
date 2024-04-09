@@ -70,23 +70,37 @@ HashTableErrorCode prepare_text_file(const char* src_filename, const char* dst_f
     return NO_HASH_TABLE_ERROR;
 }
 
-HashTableErrorCode load_hash_table_from_buffer(HashTable* hash_table, outputBuffer* buffer, size_t (*hash_function)(const char*, size_t))
+HashTableErrorCode load_hash_table_from_text(HashTable* hash_table, textData* text, size_t (*hash_function)(const char*, size_t))
 {
     assert(hash_table);
-    assert(buffer);
+    assert(text);
 
-    size_t str_start_pointer = 0;
-
-    for (size_t i = 0; i < buffer->customSize; i++)
+    for (size_t i = 0; i < text->linesCount; i++)
     {
-        if (buffer->customBuffer[i] == '\n')
-        {
-            buffer->customBuffer[i] = 0;
+        add_to_hash_table(hash_table, text->linesPtr[i], hash_function);
+    } 
 
-            add_to_hash_table(hash_table, &(buffer->customBuffer[str_start_pointer]), hash_function);
+    return NO_HASH_TABLE_ERROR;
+}
 
-            str_start_pointer = i + 1;
-        } 
+HashTableErrorCode read_file_to_text(textData* text, const char* filename)
+{
+    assert(text);
+    assert(filename);
+
+    if (get_text(filename, text)) return TEXT_READ_ERROR;
+
+    return NO_HASH_TABLE_ERROR;
+}
+
+HashTableErrorCode make_search_test(HashTable* hash_table, textData* text, size_t (*hash_function)(const char*, size_t))
+{
+    assert(hash_table);
+    assert(text);
+
+    for (size_t i = 0; i < 10000; i++)
+    {
+        if (!find_in_hash_table(hash_table, text->linesPtr[i], hash_function)) return HASH_TABLE_TEST_ERROR;
     }
 
     return NO_HASH_TABLE_ERROR;

@@ -37,3 +37,17 @@ size_t len_hash(const char* str, size_t table_len)
 
     return len % table_len;
 }
+
+size_t ror_hash(const char* str, size_t table_len)
+{
+    assert(str);
+
+    size_t temp_symbol = 0;
+
+    for (size_t i = 0; str[i]; i++)
+    {   
+        temp_symbol = ((temp_symbol >> 1) | (temp_symbol << (sizeof(temp_symbol) * 8 - 1))) ^ ((size_t) str[i]);
+    }
+
+    return temp_symbol % table_len;
+}

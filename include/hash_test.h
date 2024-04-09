@@ -5,6 +5,10 @@ HashTableErrorCode make_load_research(HashTable* hash_table, const char* filenam
 
 HashTableErrorCode prepare_text_file(const char* src_filename, const char* dst_filename);
 
-HashTableErrorCode load_hash_table_from_buffer(HashTable* hash_table, outputBuffer* buffer, size_t (*hash_function)(const char*, size_t));
+HashTableErrorCode load_hash_table_from_text(HashTable* hash_table, textData* text, size_t (*hash_function)(const char*, size_t));
+
+HashTableErrorCode read_file_to_text(textData* text, const char* filename);
+
+HashTableErrorCode make_search_test(HashTable* hash_table, textData* text, size_t (*hash_function)(const char*, size_t));
 
 #endif

@@ -15,12 +15,12 @@ TARGET = hash
 SourcePrefix = src/
 BuildPrefix = build/
 BuildFolder = build
-Include = -Iinclude -Ilib/Color_console_output/include -Ilib/Simple_list/include -Ilib/Data_buffer/include
+Include = -Iinclude -Ilib/Color_console_output/include -Ilib/Simple_list/include -Ilib/Data_buffer/include -Ilib/Onegin_task/include
 
 Sources = hash_table.cpp hash_table_errors.cpp hash_functions.cpp hash_test.cpp
 Main = main.cpp
 
-Libs = -Llib/Color_console_output/build/ -lColor_output -Llib/Simple_list/build/ -lSimple_list 
+Libs = -Llib/Color_console_output/build/ -lColor_output -Llib/Simple_list/build/ -lSimple_list  -Llib/Onegin_task/build/ -lOnegin_task
 
 Source = $(addprefix $(SourcePrefix), $(Sources))
 MainObject = $(patsubst %.cpp, $(BuildPrefix)%.o, $(Main))
@@ -31,10 +31,15 @@ objects = $(patsubst $(SourcePrefix)%.cpp, $(BuildPrefix)%.o, $(Source))
 
 all : prepare folder $(TARGET)
 
+release : CXXFLAGS = -O1
+release : prepare folder $(TARGET)
+	@echo [RELEASE_MODE]
+
 prepare: 
 	cd lib/Color_console_output && make 
 	cd lib/Data_buffer          && make
 	cd lib/Simple_list          && make
+	cd lib/Onegin_task          && make
 
 $(BuildPrefix)%.o : $(SourcePrefix)%.cpp
 	@echo [CXX] -c $< -o $@
@@ -48,6 +53,7 @@ clean :
 	cd lib/Simple_list          && make clean
 	cd lib/Color_console_output && make clean
 	cd lib/Data_buffer          && make clean
+	cd lib/Onegin_task          && make clean
 	rm $(BuildFolder)/*.o
 	rm $(TARGET)
 

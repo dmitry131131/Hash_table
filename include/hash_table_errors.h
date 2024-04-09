@@ -9,7 +9,9 @@ enum HashTableErrorCode {
     LIST_CTOR_ERROR,
     INSERT_IN_LIST_ERROR,
     CREATE_FILE_ERROR,
-    WRITE_TO_FILE_ERROR
+    WRITE_TO_FILE_ERROR,
+    TEXT_READ_ERROR,
+    HASH_TABLE_TEST_ERROR
 };
 
 void print_hash_table_error(FILE* stream, HashTableErrorCode error);

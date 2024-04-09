@@ -7,3 +7,6 @@
 [submodule "lib/Data_buffer"]
 	path = lib/Data_buffer
 	url = https://github.com/dmitry131131/Data_buffer.git
+[submodule "lib/Onegin_task"]
+	path = lib/Onegin_task
+	url = git@github.com:dmitry131131/Onegin_task.git

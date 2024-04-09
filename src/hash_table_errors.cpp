@@ -28,6 +28,8 @@ void print_hash_table_error_message(FILE* stream, HashTableErrorCode error)
     CHECK_CODE(INSERT_IN_LIST_ERROR,    "Can't insert element in list!\n");
     CHECK_CODE(CREATE_FILE_ERROR,       "Create output file error!\n");
     CHECK_CODE(WRITE_TO_FILE_ERROR,     "Write buffer to file error!\n");
+    CHECK_CODE(TEXT_READ_ERROR,         "Error in reading text process!\n");
+    CHECK_CODE(HASH_TABLE_TEST_ERROR,   "Error in testing hash table!\n");
     
     
     default:

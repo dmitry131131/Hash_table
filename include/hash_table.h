@@ -5,6 +5,8 @@ const size_t DEFAULT_LIST_SIZE = 10;
 
 #include "List.h"
 #include "DataBuffer.h"
+#include "OneginError.h"
+#include "InputOutput.h"
 #include "hash_table_errors.h"
 
 struct HashTable {
