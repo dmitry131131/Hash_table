@@ -98,7 +98,7 @@ HashTableErrorCode make_search_test(HashTable* hash_table, textData* text, size_
     assert(hash_table);
     assert(text);
 
-    for (size_t i = 0; i < 10000; i++)
+    for (size_t i = 0; i < 100000; i++)
     {
         if (!find_in_hash_table(hash_table, text->linesPtr[i], hash_function)) return HASH_TABLE_TEST_ERROR;
     }

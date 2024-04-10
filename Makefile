@@ -31,7 +31,7 @@ objects = $(patsubst $(SourcePrefix)%.cpp, $(BuildPrefix)%.o, $(Source))
 
 all : prepare folder $(TARGET)
 
-release : CXXFLAGS = -O1
+release : CXXFLAGS = -O3 -march=native -g
 release : prepare folder $(TARGET)
 	@echo [RELEASE_MODE]
 
