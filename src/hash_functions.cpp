@@ -18,6 +18,19 @@ size_t control_sum_hash(const char* str, size_t table_len)
     return res % table_len;
 }
 
+size_t control_sum_div_len(const char* str, size_t table_len)
+{
+    assert(str);
+
+    size_t res = 0;
+
+    for (size_t i = 0; str[i]; i++) res += (size_t) str[i];
+
+    size_t len = strlen(str);
+
+    return (res / len) % table_len;
+}
+
 size_t zero_hash(const char* str, size_t table_len)
 {
     assert(str);

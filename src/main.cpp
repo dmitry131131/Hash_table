@@ -14,11 +14,11 @@ int main()
 
     read_file_to_text(&text, "dst_text.txt");
 
-    load_hash_table_from_text(&hash_table, &text, crc32_hash);
+    load_hash_table_from_text(&hash_table, &text, control_sum_div_len);
 
     make_load_research(&hash_table, "load_res.csv");
 
-    if ((error = make_search_test(&hash_table, &text, crc32_hash)))
+    if ((error = make_search_test(&hash_table, &text, control_sum_div_len)))
     {
         print_hash_table_error(stderr, error);
     }
