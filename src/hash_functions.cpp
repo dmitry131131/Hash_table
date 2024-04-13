@@ -70,11 +70,11 @@ size_t crc32_hash(const char* str, size_t table_len)
 {
     assert(str);
 
-    unsigned int crc = 0;
+    unsigned int crc = 0xFFFFFFFF;
 
     for (size_t i = 0; str[i]; i++)
     {
-        unsigned int byte = str[i];     
+        unsigned int byte = (unsigned int) str[i];     
         crc = crc ^ byte;
 
         for (int j = 0; j < 8; j++) 
@@ -95,7 +95,7 @@ size_t crc32_hash_simd(const char* str, size_t table_len)
 
     for (size_t i = 0; str[i]; i++)
     {
-        crc = _mm_crc32_u8(crc, str[i]);
+        crc = _mm_crc32_u8(crc, (unsigned char) str[i]);
     }
 
     return (size_t) crc % table_len;
