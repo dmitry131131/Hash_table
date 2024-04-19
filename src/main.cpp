@@ -19,10 +19,16 @@ int main()
 
     make_load_research(&hash_table, "load_res.csv");
 
+    unsigned long start = __rdtsc();
+
     if ((error = make_search_test(&hash_table, &text, crc32_hash_simd)))
     {
         print_hash_table_error(stderr, error);
     }
+
+    unsigned long end = __rdtsc();
+
+    printf("TIME: %ld\n", end-start);
 
     hash_text_dtor(&text);
     hash_table_dtor(&hash_table);
