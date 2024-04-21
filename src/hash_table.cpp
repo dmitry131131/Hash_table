@@ -71,11 +71,11 @@ char* find_in_hash_table(HashTable* hash_table, char* str, size_t (*hash_functio
     assert(hash_table);
     assert(str);
 
-    size_t position = hash_function(str, hash_table->capacity);
+    size_t position = crc32_hash_simd_1(str, hash_table->capacity);
 
     if (!(hash_table->table[position].capacity)) return nullptr;
 
-    ssize_t in_list_position = find_elem_in_list(&(hash_table->table[position]), str);
+    ssize_t in_list_position = find_elem_in_list_custom_inline(&(hash_table->table[position]), str);
 
     return hash_table->table[position].data[in_list_position];
 }

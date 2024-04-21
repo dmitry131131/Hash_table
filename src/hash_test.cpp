@@ -130,9 +130,12 @@ HashTableErrorCode make_search_test(HashTable* hash_table, HashText* text, size_
     assert(hash_table);
     assert(text);
 
-    for (size_t i = 0; i < 100000; i++)
-    {
-        if (!find_in_hash_table(hash_table, text->linesPtr[i], hash_function)) return HASH_TABLE_TEST_ERROR;
+    for (size_t _ = 0; _ < 500; _++)
+    {    
+        for (size_t i = 0; i < 100000; i++)
+        {
+            if (!find_in_hash_table(hash_table, text->linesPtr[i], hash_function)) return HASH_TABLE_TEST_ERROR;
+        }
     }
 
     return NO_HASH_TABLE_ERROR;
