@@ -15,11 +15,12 @@ int main()
 
     read_file_to_text(&text, "dst_text.txt");
 
+    unsigned long start = __rdtsc();
+
     load_hash_table_from_text(&hash_table, &text, crc32_hash_simd);
 
     make_load_research(&hash_table, "load_res.csv");
 
-    unsigned long start = __rdtsc();
 
     if ((error = make_search_test(&hash_table, &text, crc32_hash_simd)))
     {
